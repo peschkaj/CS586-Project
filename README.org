@@ -55,27 +55,26 @@ search and the time constraints of this project.
 Since this is a list of horror movies, the "horror" genre is excluded from all
 genre-related questions to avoid skewing the data.
 
-1. Highest budget movie by year by country
-2. Highest budget movie by release year
-3. Highest budget movie by country
-4. Number of movies released per year
-5. Number of movies released by country
-6. Number of movies released by country by year
-7. Number of movies filmed in each country
-8. Number of movies filmed in a specific location in each country
-9. Number of movies filmed in each country by year
-10. Locations where only one movie was filmed
-11. Movies filmed in each country by year
-12. Average IMDB score by release date
-13. Average IMDB score by country of origin
-14. Average IMDB score by country of origin and release year
-15. Average IMDB score by runtime
-16. Most common movie rating by country of origin
-17. Most common movie rating by country of origin and release year
-18. Most common movie rating by release year
-19. Number of movies by genre (excluding horror)
-20. Number of movies by genre per year (excluding horror)
-21. Total and average budget spent by genre (excluding horror)
+1. [[file:queries/01.sql][Highest budget movie by year by country]]
+2. [[queries/02.sql][Highest budget movie by release year]]
+3. [[file:queries/03.sql][Highest budget movie by country]]
+4. [[file:queries/04.sql][Number of movies released per year]]
+5. [[file:queries/05.sql][Number of movies released by country]]
+6. [[file:queries/06.sql][Number of movies released by country by year]]
+7. [[queries/07.sql][Number of movies filmed in each country]]
+8. [[file:queries/08.sql][Number of movies filmed in a specific location in each country]]
+9. [[file:queries/09.sql][Locations where only one movie was filmed]]
+10. [[file:queries/10.sql][Movies filmed in each country by year]]
+11. [[file:queries/11.sql][Average IMDB score by release date]]
+12. Average IMDB score by country of origin
+13. Average IMDB score by country of origin and release year
+14. Average IMDB score by runtime
+15. Most common movie rating by country of origin
+16. Most common movie rating by country of origin and release year
+17. Most common movie rating by release year
+18. Number of movies by genre (excluding horror)
+19. Number of movies by genre per year (excluding horror)
+20. Total and average budget spent by genre (excluding horror)
 
 Deleted questions:
 
