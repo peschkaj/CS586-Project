@@ -1,0 +1,95 @@
+#+TITLE: CS586 Graduate Project Final Write Up
+#+AUTHOR: Jeremiah Peschka
+#+EMAIL: jeremiah.peschka@gmail.com
+#+STARTUP: indent showall
+#+OPTIONS: documentclass[11pt,letterpaper]{report}
+#+LATEX_HEADER_EXTRA: \usepackage{amsmath,amssymb,amsthm,enumerate,parskip,fancyvrb,tikz-er2,fancyhdr}
+#+LATEX_HEADER_EXTRA: \pagestyle{fancy}
+#+LATEX_HEADER_EXTRA: \fancyhead{}
+#+LATEX_HEADER_EXTRA: \lhead{CS586}
+#+LATEX_HEADER_EXTRA: \chead{Homework 7}
+#+LATEX_HEADER_EXTRA: \rhead{Jeremiah Peschka}
+#+OPTIONS: num:nil
+#+OPTIONS: ^:{}
+
+* ER Diagram
+
+[[file:grad-erd.png]]
+
+\clearpage
+* Table Creation Scripts
+
+Table create scripts are located in the initial portion of [[https://github.com/peschkaj/CS586-Project/blob/master/data-load.sql][data-load.sql]].
+
+Source data is available in the [[https://github.com/peschkaj/CS586-Project/blob/master/IMDB-Halloween-PromptCloud.csv][IMDB-Halloween-PromptCloud.csv]] file.
+
+The database was populated as follows:
+
+1. Data is loaded into a staging table using the ~copy~ command.
+2. The release year is extracted from either the release date column or from
+   parsing the movie title. If this title is only 4 characters long, we can
+   assume it's a single year. Otherwise, we parse it as a date and extract the
+   year.
+3. The locations, genres, countries, and actors tables are populated by reading
+   from the ~imdb_staging~ table and parsing the pipe delimited string that
+   contains data for each respective column.
+4. The ratings column is entered from a hand written ~INSERT~ statement. My
+   original goal was to put the list in ascending of "naughtiness" (for lack of
+   a better word). This did not happen and, in hindsight, I should have used a
+   ~SELECT~ statement.
+5. At this point movies are loaded from the staging and then movies are
+   connected to the locations, genres, countries, and actors tables by a series
+   of join tables.
+6. Budget data is cleaned and separated into a currency unit and a currency.
+   Then the currencies are normalized to 2017 USD. No effort is made to apply
+   inflation, though.
+
+* Questions
+
+The original list of questions had to be revised significantly. The IMDB data
+that I ended up using did not contain box office gross data, so seven of the
+original questions had to be replaced. Questions about common words in titles
+and plots were also removed due to the difficulties of setting up full text
+search and the time constraints of this project.
+
+Since this is a list of horror movies, the "horror" genre is excluded from all
+genre-related questions to avoid skewing the data.
+
+1. Highest budget movie by year by country
+2. Highest budget movie by release year
+3. Highest budget movie by country
+4. Number of movies released per year
+5. Number of movies released by country
+6. Number of movies released by country by year
+7. Number of movies filmed in each country
+8. Number of movies filmed in a specific location in each country
+9. Number of movies filmed in each country by year
+10. Locations where only one movie was filmed
+11. Movies filmed in each country by year
+12. Average IMDB score by release date
+13. Average IMDB score by country of origin
+14. Average IMDB score by country of origin and release year
+15. Average IMDB score by runtime
+16. Most common movie rating by country of origin
+17. Most common movie rating by country of origin and release year
+18. Most common movie rating by release year
+19. Number of movies by genre (excluding horror)
+20. Number of movies by genre per year (excluding horror)
+21. Total and average budget spent by genre (excluding horror)
+
+Deleted questions:
+
+1. Highest grossing movies by year
+2. Highest grossing movies by country of origin
+3. Highest grossing movies by country of origin by year
+4. Highest grossing actors of all time
+5. Highest grossing actors by year
+6. Common words in movie titles by IMDB score
+7. Common words in plot by IMDB score
+8. Common words in movie titles by box office gross
+9. Highest grossing genre combinations
+10. Highest grossing genre combinations by year
+
+* Queries and Results
+
+Queries are located in [[file:queries.sql][queries.sql]].

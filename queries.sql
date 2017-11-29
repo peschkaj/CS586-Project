@@ -1,4 +1,3 @@
-
 -- Highest budget movie by year by country
 WITH expensive_movies AS (
     SELECT
@@ -14,9 +13,11 @@ SELECT
   m.title,
   m.budget
 FROM movies m
-  JOIN expensive_movies em ON m.release_year = em.release_year AND m.country_id = em.country_id AND m.budget = em.max_budget
+  JOIN expensive_movies em ON m.release_year = em.release_year
+                          AND m.country_id = em.country_id
+                          AND m.budget = em.max_budget
   JOIN countries c ON m.country_id = c.id
-ORDER BY m.country_id, m.release_year DESC ;
+ORDER BY m.country_id, m.release_year DESC;
 
 
 
@@ -28,15 +29,13 @@ WITH expensive_movies AS (
     FROM movies
     GROUP BY release_year, country_id
 )
-SELECT
+SELECT DISTINCT
   m.release_year,
   m.title,
   m.budget
 FROM movies m
   JOIN expensive_movies em ON m.release_year = em.release_year  AND m.budget = em.max_budget
-ORDER BY m.release_year DESC ;
-
-
+ORDER BY m.release_year DESC;
 
 
 
@@ -48,7 +47,7 @@ WITH expensive_movies AS (
     FROM movies
     GROUP BY country_id
 )
-SELECT
+SELECT DISTINCT
   c.country_name,
   m.title,
   m.budget
