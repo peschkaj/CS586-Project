@@ -84,6 +84,24 @@ ALTER TABLE movies
 ALTER TABLE movies
     ADD CONSTRAINT fk_movies_countries FOREIGN KEY (country_id) REFERENCES countries(id);
 
+CREATE TABLE IF NOT EXISTS movie_locations (
+  movie_id INT NOT NULL CONSTRAINT fk_movie_locations_movie REFERENCES movies(id),
+  location_id INT NOT NULL CONSTRAINT fk_movie_locations_location REFERENCES locations(id),
+  CONSTRAINT pk_movie_locations PRIMARY KEY (movie_id, location_id)
+);
+
+CREATE TABLE IF NOT EXISTS movie_cast (
+  movie_id INT NOT NULL CONSTRAINT fk_movie_cast_movie REFERENCES movies(id),
+  cast_id INT NOT NULL CONSTRAINT fk_movie_cast_actor REFERENCES actors(id),
+  CONSTRAINT pk_movie_cast PRIMARY KEY (movie_id, cast_id)
+);
+
+CREATE TABLE movie_genres (
+  movie_id INT NOT NULL CONSTRAINT fk_movie_genres_movie REFERENCES movies(id),
+  genre_id INT NOT NULL CONSTRAINT fk_movie_genres_genre REFERENCES genres(id),
+  CONSTRAINT pk_movie_genres PRIMARY KEY (movie_id, genre_id)
+);
+
 TRUNCATE imdb_staging;
 
 COPY imdb_staging (title, genres, release_date, release_country, movie_rating, review_rating, movie_run_time, plot, movie_cast, movie_language, filming_locations, budget)
@@ -204,11 +222,7 @@ WHERE m.id = i.id;
 
 
 -- wire up cast and movies
-CREATE TABLE IF NOT EXISTS movie_cast (
-  movie_id INT NOT NULL CONSTRAINT fk_movie_cast_movie REFERENCES movies(id),
-  cast_id INT NOT NULL CONSTRAINT fk_movie_cast_actor REFERENCES actors(id),
-  CONSTRAINT pk_movie_cast PRIMARY KEY (movie_id, cast_id)
-);
+
 
 
 WITH mc AS (
@@ -232,11 +246,7 @@ ALTER TABLE imdb_staging
     ADD location_country VARCHAR;
 
 
-CREATE TABLE IF NOT EXISTS movie_locations (
-  movie_id INT NOT NULL CONSTRAINT fk_movie_locations_movie REFERENCES movies(id),
-  location_id INT NOT NULL CONSTRAINT fk_movie_locations_location REFERENCES locations(id),
-  CONSTRAINT pk_movie_locations PRIMARY KEY (movie_id, location_id)
-);
+
 
 UPDATE imdb_staging is1
 SET location_location = trim(f_array[array_length(f_array, 1) - 1]),
@@ -264,12 +274,6 @@ WHERE   i.location_location IS NOT NULL AND l.location_name IS NOT NULL;
 
 
 -- wire up genres
-CREATE TABLE movie_genres (
-  movie_id INT NOT NULL CONSTRAINT fk_movie_genres_movie REFERENCES movies(id),
-  genre_id INT NOT NULL CONSTRAINT fk_movie_genres_genre REFERENCES genres(id),
-  CONSTRAINT pk_movie_genres PRIMARY KEY (movie_id, genre_id)
-);
-
 WITH stage AS (
     SELECT DISTINCT
       id,
