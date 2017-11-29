@@ -85,18 +85,10 @@ ALTER TABLE movies
     ADD CONSTRAINT fk_movies_countries FOREIGN KEY (country_id) REFERENCES countries(id);
 
 TRUNCATE imdb_staging;
--- TRUNCATE ratings;
--- TRUNCATE movies;
--- TRUNCATE locations;
--- TRUNCATE genres;
--- TRUNCATE countries;
--- TRUNCATE actors;
 
 COPY imdb_staging (title, genres, release_date, release_country, movie_rating, review_rating, movie_run_time, plot, movie_cast, movie_language, filming_locations, budget)
-FROM '/Users/jeremiah/Documents/pdx.edu/CS586/Homework/IMDB-Halloween-PromptCloud.csv'
+FROM 'IMDB-Halloween-PromptCloud.csv'
 WITH CSV HEADER;
-
-
 
 
 
