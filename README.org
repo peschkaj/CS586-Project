@@ -16,7 +16,6 @@
 
 [[file:grad-erd.png]]
 
-\clearpage
 * Table Creation Scripts
 
 Table create scripts are located in the initial portion of [[https://github.com/peschkaj/CS586-Project/blob/master/data-load.sql][data-load.sql]].
@@ -46,12 +45,6 @@ The database was populated as follows:
 
 * Questions
 
-The original list of questions had to be revised significantly. The IMDB data
-that I ended up using did not contain box office gross data, so seven of the
-original questions had to be replaced. Questions about common words in titles
-and plots were also removed due to the difficulties of setting up full text
-search and the time constraints of this project.
-
 Since this is a list of horror movies, the "horror" genre is excluded from all
 genre-related questions to avoid skewing the data.
 
@@ -66,28 +59,34 @@ genre-related questions to avoid skewing the data.
 9. [[file:queries/09.sql][Locations where only one movie was filmed]]
 10. [[file:queries/10.sql][Movies filmed in each country by year]]
 11. [[file:queries/11.sql][Average IMDB score by release date]]
-12. Average IMDB score by country of origin
-13. Average IMDB score by country of origin and release year
-14. Average IMDB score by runtime
-15. Most common movie rating by country of origin
-16. Most common movie rating by country of origin and release year
-17. Most common movie rating by release year
-18. Number of movies by genre (excluding horror)
-19. Number of movies by genre per year (excluding horror)
-20. Total and average budget spent by genre (excluding horror)
+12. [[file:queries/12.sql][Average IMDB score by country of origin]]
+13. [[file:queries/13.sql][Average IMDB score by country of origin and release year]]
+14. [[file:queries/14.sql][Average IMDB score by runtime]]
+15. [[file:queries/15.sql][Most common movie rating by country of origin]]
+16. [[file:queries/16.sql][Most common movie rating by country of origin and release year]]
+17. [[file:queries/17.sql][Most common movie rating by release year]]
+18. [[file:queries/18.sql][Number of movies by genre (excluding horror)]]
+19. [[file:queries/19.sql][Number of movies by genre per year (excluding horror)]]
+20. [[file:queries/20.sql][Total and average budget spent by genre (excluding horror)]]
 
-Deleted questions:
+** Deleted questions:
 
-1. Highest grossing movies by year
-2. Highest grossing movies by country of origin
-3. Highest grossing movies by country of origin by year
-4. Highest grossing actors of all time
-5. Highest grossing actors by year
-6. Common words in movie titles by IMDB score
-7. Common words in plot by IMDB score
-8. Common words in movie titles by box office gross
-9. Highest grossing genre combinations
-10. Highest grossing genre combinations by year
+The original list of questions had to be revised significantly. The IMDB data
+that I ended up using did not contain box office gross data, so seven of the
+original questions had to be replaced. Questions about common words in titles
+and plots were also removed due to the difficulties of setting up full text
+search and the time constraints of this project.
+
+ 1. Highest grossing movies by year
+ 2. Highest grossing movies by country of origin
+ 3. Highest grossing movies by country of origin by year
+ 4. Highest grossing actors of all time
+ 5. Highest grossing actors by year
+ 6. Common words in movie titles by IMDB score
+ 7. Common words in plot by IMDB score
+ 8. Common words in movie titles by box office gross
+ 9. Highest grossing genre combinations
+ 10. Highest grossing genre combinations by year
 
 * Queries and Results
 

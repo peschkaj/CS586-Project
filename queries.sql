@@ -170,7 +170,7 @@ ORDER BY average_review_score DESC;
 
 
 
--- Average IMDB score by country of origin
+-- Average IMDB score by country of origin by release year
 SELECT
   c.country_name,
   m.release_year,
