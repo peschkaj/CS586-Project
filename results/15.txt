@@ -1,0 +1,69 @@
+     country_name     |  rating   | number_of_movies 
+----------------------+-----------+------------------
+ USA                  | R         |             1782
+ UK                   | R         |              103
+ Japan                | R         |               70
+ France               | R         |               57
+ Italy                | R         |               48
+ Canada               | R         |               38
+ South Korea          | R         |               37
+ Spain                | R         |               34
+ Germany              | R         |               30
+ Australia            | R         |               26
+ Russia               | R         |               25
+ West Germany         | R         |               20
+ Philippines          | R         |               16
+ Netherlands          | R         |               15
+ India                | NOT RATED |               15
+ Mexico               | R         |               13
+ Singapore            | R         |               12
+ Hong Kong            | R         |               11
+ Turkey               | R         |               11
+ Argentina            | R         |               10
+ Sweden               | R         |               10
+ Thailand             | NOT RATED |               10
+ Belgium              | NOT RATED |                9
+ Ireland              | R         |                9
+ Norway               | NOT RATED |                8
+ Denmark              | R         |                7
+ Portugal             | R         |                7
+ Kuwait               | R         |                7
+ Brazil               | R         |                6
+ South Africa         | R         |                5
+ Finland              | R         |                5
+ Taiwan               | R         |                5
+ Greece               | R         |                4
+ New Zealand          | NOT RATED |                4
+ Israel               | R         |                3
+ United Arab Emirates | R         |                3
+ Poland               | NOT RATED |                3
+ Malaysia             | PG-13     |                2
+ Czech Republic       | NOT RATED |                2
+ Hungary              | NOT RATED |                2
+ Peru                 | NOT RATED |                2
+ China                | NOT RATED |                2
+ Chile                | R         |                2
+ Indonesia            | NOT RATED |                2
+ Iceland              | R         |                2
+ Bahrain              | R         |                2
+ Ukraine              | NOT RATED |                2
+ Venezuela            | R         |                2
+ Georgia              | R         |                1
+ Cuba                 | NOT RATED |                1
+ Morocco              | NOT RATED |                1
+ Bolivia              | NOT RATED |                1
+ Vietnam              | NOT RATED |                1
+ Switzerland          | NOT RATED |                1
+ Egypt                | PG-13     |                1
+ Austria              | R         |                1
+ Uruguay              | NOT RATED |                1
+ Pakistan             | UNRATED   |                1
+ Belarus              | R         |                1
+ Colombia             | TV-14     |                1
+ Kazakhstan           | NOT RATED |                1
+ Czechoslovakia       | NOT RATED |                1
+ Qatar                | R         |                1
+ Latvia               | TV-MA     |                1
+ Serbia               | NOT RATED |                1
+(65 rows)
+

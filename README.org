@@ -12,13 +12,18 @@
 #+OPTIONS: num:nil
 #+OPTIONS: ^:{}
 
-* ER Diagram
+The canonical version of this document is available at [[https://github.com/peschkaj/CS586-Project/blob/master/README.org][https://github.com/peschkaj/CS586-Project/blob/master/README.org]]
+
+
+** ER Diagram
 
 [[file:grad-erd.png]]
 
-* Table Creation Scripts
+** Table Creation Scripts
 
 Table create scripts are located in the initial portion of [[https://github.com/peschkaj/CS586-Project/blob/master/data-load.sql][data-load.sql]].
+
+** Data Load Process
 
 Source data is available in the [[https://github.com/peschkaj/CS586-Project/blob/master/IMDB-Halloween-PromptCloud.csv][IMDB-Halloween-PromptCloud.csv]] file.
 
@@ -43,33 +48,36 @@ The database was populated as follows:
    Then the currencies are normalized to 2017 USD. No effort is made to apply
    inflation, though.
 
-* Questions
+** Questions
 
-Since this is a list of horror movies, the "horror" genre is excluded from all
+Each question is linked to the relevant SQL query and the "Results" text links
+to a text file containing the results.
+
+1. [[file:queries/01.sql][Highest budget movie by year by country]] - [[file:results/01.txt][Results]]
+2. [[queries/02.sql][Highest budget movie by release year]] - [[file:results/02.txt][Results]]
+3. [[file:queries/03.sql][Highest budget movie by country]] - [[file:results/03.txt][Results]]
+4. [[file:queries/04.sql][Number of movies released per year]] - [[file:results/04.txt][Results]]
+5. [[file:queries/05.sql][Number of movies released by country]] - [[file:results/05.txt][Results]]
+6. [[file:queries/06.sql][Number of movies released by country by year]] - [[file:results/06.txt][Results]]
+7. [[queries/07.sql][Number of movies filmed in each country]] - [[file:results/07.txt][Results]]
+8. [[file:queries/08.sql][Number of movies filmed in a specific location in each country]] - [[file:results/08.txt][Results]]
+9. [[file:queries/09.sql][Locations where only one movie was filmed]] - [[file:results/09.txt][Results]]
+10. [[file:queries/10.sql][Movies filmed in each country by year]] - [[file:results/10.txt][Results]]
+11. [[file:queries/11.sql][Average IMDB score by release date]] - [[file:results/11.txt][Results]]
+12. [[file:queries/12.sql][Average IMDB score by country of origin]] - [[file:results/12.txt][Results]]
+13. [[file:queries/13.sql][Average IMDB score by country of origin and release year]] - [[file:results/13.txt][Results]]
+14. [[file:queries/14.sql][Average IMDB score by runtime]] - [[file:results/14.txt][Results]]
+15. [[file:queries/15.sql][Most common movie rating by country of origin]] - [[file:results/15.txt][Results]]
+16. [[file:queries/16.sql][Most common movie rating by country of origin and release year]] - [[file:results/16.txt][Results]]
+17. [[file:queries/17.sql][Most common movie rating by release year]] - [[file:results/17.txt][Results]]
+18. [[file:queries/18.sql][Number of movies by genre (excluding horror)]] - [[file:results/18.txt][Results]]
+19. [[file:queries/19.sql][Number of movies by genre per year (excluding horror)]] - [[file:results/19.txt][Results]]
+20. [[file:queries/20.sql][Total and average budget spent by genre (excluding horror)]] - [[file:results/20.txt][Results]]
+
+/N.B./ Since this is a list of horror movies, the "horror" genre is excluded from all
 genre-related questions to avoid skewing the data.
 
-1. [[file:queries/01.sql][Highest budget movie by year by country]]
-2. [[queries/02.sql][Highest budget movie by release year]]
-3. [[file:queries/03.sql][Highest budget movie by country]]
-4. [[file:queries/04.sql][Number of movies released per year]]
-5. [[file:queries/05.sql][Number of movies released by country]]
-6. [[file:queries/06.sql][Number of movies released by country by year]]
-7. [[queries/07.sql][Number of movies filmed in each country]]
-8. [[file:queries/08.sql][Number of movies filmed in a specific location in each country]]
-9. [[file:queries/09.sql][Locations where only one movie was filmed]]
-10. [[file:queries/10.sql][Movies filmed in each country by year]]
-11. [[file:queries/11.sql][Average IMDB score by release date]]
-12. [[file:queries/12.sql][Average IMDB score by country of origin]]
-13. [[file:queries/13.sql][Average IMDB score by country of origin and release year]]
-14. [[file:queries/14.sql][Average IMDB score by runtime]]
-15. [[file:queries/15.sql][Most common movie rating by country of origin]]
-16. [[file:queries/16.sql][Most common movie rating by country of origin and release year]]
-17. [[file:queries/17.sql][Most common movie rating by release year]]
-18. [[file:queries/18.sql][Number of movies by genre (excluding horror)]]
-19. [[file:queries/19.sql][Number of movies by genre per year (excluding horror)]]
-20. [[file:queries/20.sql][Total and average budget spent by genre (excluding horror)]]
-
-** Deleted questions:
+*** Deleted questions:
 
 The original list of questions had to be revised significantly. The IMDB data
 that I ended up using did not contain box office gross data, so seven of the
@@ -88,6 +96,16 @@ search and the time constraints of this project.
  9. Highest grossing genre combinations
  10. Highest grossing genre combinations by year
 
-* Queries and Results
+** Raw Data
 
-Queries are located in [[file:queries.sql][queries.sql]].
+Raw data was exported using the following command:
+
+#+BEGIN_SRC shell
+pg_dump jeremiah -a -f data.sql -n public -T pokemon -T quick_move
+#+END_SRC
+
+The data is available in [[file:raw_data/data.sql][raw_data/data.sql]].
+
+This data dump is provided since there is a large amount of data present (over
+9,000 movies) and providing this data as a text dump would be too lengthy to
+encode in this document.

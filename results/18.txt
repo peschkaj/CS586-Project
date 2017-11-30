@@ -1,0 +1,26 @@
+ genre_name | count 
+------------+-------
+ Thriller   |  3632
+ Drama      |  1598
+ Comedy     |  1418
+ Mystery    |  1412
+ Sci-Fi     |  1291
+ Action     |   886
+ Fantasy    |   751
+ Crime      |   534
+ Adventure  |   369
+ Romance    |   356
+ Animation  |    88
+ Western    |    53
+ War        |    51
+ Musical    |    47
+ Family     |    46
+ Music      |    33
+ History    |    31
+ Biography  |    22
+ Film-Noir  |    16
+ Sport      |    11
+ Adult      |     2
+ Reality-TV |     1
+(22 rows)
+

@@ -1,0 +1,339 @@
+                   country_name                   |                 location_name                  | movie_count 
+--------------------------------------------------+------------------------------------------------+-------------
+ France                                           | Provence-Alpes-Côte d'Azur                     |           1
+ Georgia                                          | Moreland                                       |           1
+ China                                            | Beijing                                        |           1
+ Ireland                                          | Wicklow                                        |           1
+ Afghanistan                                      | Kabul                                          |           1
+ Denmark                                          | Aarhus                                         |           1
+ Thailand                                         | Chiang Mai                                     |           1
+ Catalonia                                        | Barcelona                                      |           1
+ France                                           | Oise                                           |           1
+ Puerto Rico                                      | Arecibo                                        |           1
+ Switzerland                                      | Kanton Aargau                                  |           1
+ Hungary                                          | Hollokö                                        |           1
+ Russia                                           | Bashkortostan                                  |           1
+ Netherlands                                      | Utrecht                                        |           1
+ Japan                                            | Yamaguchi Prefecture                           |           1
+ South Africa                                     | Gauteng                                        |           1
+ Romania                                          | Zarnesti                                       |           1
+ India                                            | Haryana                                        |           1
+ Spain                                            | Navarra                                        |           1
+ South Korea                                      | Busan                                          |           1
+ Poland                                           | Pomorskie                                      |           1
+ Bosnia-Herzegovina                               | Republic of Srpska                             |           1
+ Ukraine                                          | Vinnytsia                                      |           1
+ Greece                                           | Symi                                           |           1
+ Ukraine                                          | Chernihiv                                      |           1
+ Belgium                                          | Flanders                                       |           1
+ Ireland                                          | Croke Park Dublin                              |           1
+ Luxembourg                                       | Luxembourg                                     |           1
+ CA                                               | Ventura                                        |           1
+ Guyana                                           | Georgetown                                     |           1
+ USA                                              | Gothic Avenue / San Fernando Mission Boulevard |           1
+ India                                            | Madhya Pradesh                                 |           1
+ Indonesia                                        | Batam                                          |           1
+ Serbia                                           | Tara National Forest                           |           1
+ Namibia                                          | Erongo                                         |           1
+ Japan                                            | Aichi                                          |           1
+ Kenya                                            | Rift Valley                                    |           1
+ New Zealand                                      | Waikato                                        |           1
+ Malaysia                                         | Universti Kebangsaan                           |           1
+ USA                                              | New Orleans. Louisiana                         |           1
+ Vietnam                                          | Halong Bay                                     |           1
+ Romania                                          | Hunedoara                                      |           1
+ United Arab Emirates                             | Ras Al-Khaimah                                 |           1
+ Ireland                                          | Co.Wexford                                     |           1
+ China                                            | Heng Dian                                      |           1
+ Switzerland                                      | Canton Neuchâtel                               |           1
+ China                                            | Yunnan                                         |           1
+ Turkey                                           | Balikesir                                      |           1
+ Japan                                            | Nagasaki Prefecture                            |           1
+ Denmark                                          | Fyn                                            |           1
+ France                                           | Val d'Oise                                     |           1
+ Cuba                                             | Havana                                         |           1
+ Ukraine                                          | Kiev                                           |           1
+ UK                                               | Berkshire                                      |           1
+ Vietnam                                          | Ho Chi Minh City                               |           1
+ UK                                               | Croydon                                        |           1
+ South Korea                                      | Gangwon-do                                     |           1
+ France                                           | Dordogne                                       |           1
+ Bahrain                                          | Isa Town                                       |           1
+ earstwhile palace of Nawab of Ahmedganj in Murud | Ahmedganj palace                               |           1
+ Yugoslavia                                       | Croatia                                        |           1
+ Mexico                                           | Xcaret                                         |           1
+ Italy                                            | Trentino-Alto Adige                            |           1
+ Belgium                                          | West-Vlaanderen                                |           1
+ Greenland                                        | Ilulissat                                      |           1
+ Hong Kong                                        | Shaw Brothers Studios                          |           1
+ Israel                                           | Jaffa                                          |           1
+ Mexico                                           | Satélite                                       |           1
+ Italy                                            | Valle d'Aosta                                  |           1
+ Singapore                                        | Ang Mo Kio MRT station                         |           1
+ Norway                                           | Jar                                            |           1
+ Yugoslavia                                       | Bosnia and Hercegovina                         |           1
+ Thailand                                         | Samut Prakan                                   |           1
+ France                                           | Carmarque                                      |           1
+ Mexico                                           | Cancun                                         |           1
+ USA                                              | Garden State of New Jersey                     |           1
+ Japan                                            | Hachijôjima                                    |           1
+ Thailand                                         | Karnchanaburi                                  |           1
+ India                                            | Goa                                            |           1
+ Greece                                           | Mykonos                                        |           1
+ Isle of Man                                      | Douglas                                        |           1
+ Norway                                           | Fykse                                          |           1
+ Georgia                                          | Brooks County                                  |           1
+ Morocco                                          | Ouarzazate                                     |           1
+ Czech Republic                                   | Nymburk District                               |           1
+ Spain                                            | Andalucia                                      |           1
+ USA                                              | North Dakota                                   |           1
+ Romania                                          | Fagaras                                        |           1
+ Greenland                                        | Nuuk                                           |           1
+ Indonesia                                        | Ciloto                                         |           1
+ Australia                                        | Glenside                                       |           1
+ Switzerland                                      | CERN                                           |           1
+ Colombia                                         | Parque de los Nevados                          |           1
+ Jordan                                           | Amman                                          |           1
+ India                                            | Mumbai Pune Expressway                         |           1
+ France                                           | Jargeau in Loiret                              |           1
+ France                                           | Hauts-de-Seine                                 |           1
+ France                                           | Seine-Saint-Denis                              |           1
+ Sweden                                           | Götene                                         |           1
+ Sweden                                           | Malmö                                          |           1
+ Cambodia                                         | Preah Monivong National Park                   |           1
+ France                                           | Haute-Savoie                                   |           1
+ India                                            | Himachal Pradesh                               |           1
+ The Netherlands                                  | Loenen                                         |           1
+ BC                                               | Cowichan Valley                                |           1
+ Spain                                            | Ballesteros                                    |           1
+ Czech Republic                                   | Benesov                                        |           1
+ India                                            | Rajasthan                                      |           1
+ Romania                                          | Sibiu County                                   |           1
+ Chile                                            | Región de Valparaíso                           |           1
+ Spain                                            | Barcelona                                      |           1
+ Belgium                                          | Ardennes                                       |           1
+ Italy                                            | Roma                                           |           1
+ Slovenia                                         | Ljubljana                                      |           1
+ Greece                                           | Attica                                         |           1
+ Norway                                           | Sogn og Fjordane                               |           1
+ France                                           | Savoie                                         |           1
+ South Korea                                      | Geumodo Island                                 |           1
+ Finland                                          | Kotka                                          |           1
+ Hong Kong                                        | Hong Kong Stadium                              |           1
+ France                                           | Massif Central                                 |           1
+ Morocco                                          | CLA Studios                                    |           1
+ Norway                                           | Vestnes                                        |           1
+ France                                           | Poitou-Charentes                               |           1
+ Slovenia                                         | Jezersko                                       |           1
+ Switzerland                                      | Kanton Zürich                                  |           1
+ Pakistan                                         | Lahore                                         |           1
+ France                                           | Corsica                                        |           1
+ Japan                                            | Toei Studio                                    |           1
+ France                                           | Région parisienne                              |           1
+ Romania                                          | Brasov County                                  |           1
+ Belgium                                          | Deurne                                         |           1
+ Ireland                                          | County Kerry                                   |           1
+ South Korea                                      | Jeollanamdo                                    |           1
+ Iran                                             | Tehran                                         |           1
+ Japan                                            | Kyushu                                         |           1
+ Oman                                             | Ash Sharqiyah                                  |           1
+ Indonesia                                        | Rainforest                                     |           1
+ Czech Republic                                   | Pardubice                                      |           1
+ Pakistan                                         | Karachi                                        |           1
+ Czech Republic                                   | Kladno                                         |           1
+ China                                            | Jiangsu                                        |           1
+ India                                            | West Bengal                                    |           1
+ China                                            | Shanghai                                       |           1
+ Bulgaria                                         | Borovets                                       |           1
+ France                                           | Morbihan                                       |           1
+ Germany                                          | Niederachsen                                   |           1
+ Singapore                                        | Orchard Road                                   |           1
+ Turkey                                           | Fethiye                                        |           1
+ Spain                                            | Patones de Arriba                              |           1
+ Ireland                                          | County Leitrim                                 |           1
+ France                                           | Brittany                                       |           1
+ Sweden                                           | Knivsta                                        |           1
+ Argentina                                        | Buenos Aires Province                          |           1
+ Luxembourg                                       | Contern                                        |           1
+ France                                           | Loire                                          |           1
+ Belgium                                          | West Flanders                                  |           1
+ Luxembourg                                       | Dudelange                                      |           1
+ Switzerland                                      | Cantone Ticino                                 |           1
+ Ireland                                          | Dublin City                                    |           1
+ Iraq                                             | Kurdistan                                      |           1
+ Italy                                            | Venice                                         |           1
+ Japan                                            | Okinawa                                        |           1
+ Hungary                                          | Pomáz                                          |           1
+ Portugal                                         | Setúbal                                        |           1
+ West Australia                                   | Jarradale                                      |           1
+ Space                                            | The Moon                                       |           1
+ Spain                                            | Alicante                                       |           1
+ Norway                                           | Nyksund                                        |           1
+ Poland                                           | Dolnoslaskie                                   |           1
+ Georgia                                          | Atlanta                                        |           1
+ USA                                              | IL                                             |           1
+ near Docking                                     | Coldharbour                                    |           1
+ Dominican Republic                               | Zoetry Agua Punta Cana                         |           1
+ Slovakia                                         | Bratislava                                     |           1
+ France                                           | Aude                                           |           1
+ Turkey                                           | Çanakkale                                      |           1
+ France                                           | Aisne                                          |           1
+ Switzerland                                      | Zurich                                         |           1
+ Austria                                          | Raabs an der Thaya                             |           1
+ Bizkaia                                          | El Pobal                                       |           1
+ U.S. Virgin Islands                              | St. Croix                                      |           1
+ Japan                                            | Hokkaido                                       |           1
+ Brazil                                           | Distrito Federal                               |           1
+ Ireland                                          | Co Mayo                                        |           1
+ USA                                              | Portland Oregon                                |           1
+ UK                                               | Middlesex                                      |           1
+ Spain                                            | Comunitat Valenciana                           |           1
+ Poland                                           | Podlaskie                                      |           1
+ Mexico                                           | Morelos                                        |           1
+ Poland                                           | Wielkopolskie                                  |           1
+ Russia                                           | Khabarovsk                                     |           1
+ India                                            | Mumbai                                         |           1
+ Canada                                           | Toronto Ontario                                |           1
+ Ireland                                          | Crone Wood                                     |           1
+ Canada                                           | Winnipeg                                       |           1
+ Canada                                           | Newfoundland and Labrador                      |           1
+ Belgium                                          | Bullingen                                      |           1
+ Chile                                            | Los Lagos                                      |           1
+ Mexico                                           | Chipotle                                       |           1
+ Luxembourg                                       | Studio Luxembourg                              |           1
+ France                                           | Saint-Ouen                                     |           1
+ Hungary                                          | Aszód                                          |           1
+ Sweden                                           | Lapland                                        |           1
+ Belgium                                          | Villers-la-ville                               |           1
+ UK                                               | Norfolk                                        |           1
+ Fiji                                             | Deuba                                          |           1
+ India                                            | Bhalla's Bunglow                               |           1
+ Bahamas                                          | Eleuthera Island                               |           1
+ Netherlands                                      | Flevoland                                      |           1
+ Chile                                            | Santiago de Chile                              |           1
+ Finland                                          | Inari                                          |           1
+ Italy                                            | Piemonte                                       |           1
+ France                                           | Moselle                                        |           1
+ Portugal                                         | Caramulo                                       |           1
+ Turkey                                           | Mugla                                          |           1
+ Italy                                            | Nicorvo                                        |           1
+ South Korea                                      | Yang-joo                                       |           1
+ Spain                                            | Aragón                                         |           1
+ Japan                                            | Fukuoka                                        |           1
+ Italy                                            | Friuli-Venezia Giulia                          |           1
+ Portugal                                         | Sintra                                         |           1
+ South Korea                                      | Gwangmyeong                                    |           1
+ Chile                                            | Las Termas de Chillán                          |           1
+ Austria                                          | Wien                                           |           1
+ Venezuela                                        | Guri                                           |           1
+ Indonesia                                        | Gunung Pancar                                  |           1
+ Belgium                                          | Braine-le-Château                              |           1
+ Belgium                                          | Brussels                                       |           1
+ Austria                                          | Tyrol                                          |           1
+ USA"                                             | California                                     |           1
+ Chile                                            | Chillán                                        |           1
+ Italia                                           | Trentino Alto-Adige                            |           1
+ Italia                                           | Rimini                                         |           1
+ Belgium                                          | Walloon Brabant                                |           1
+ New Zealand                                      | Wairarapa                                      |           1
+ New Zealand                                      | Kurow                                          |           1
+ England                                          | Essex                                          |           1
+ USA                                              | Lousiana                                       |           1
+ Norway                                           | Lillehammer                                    |           1
+ South Africa                                     | Heidelberg                                     |           1
+ Sweden                                           | Norrbottens Län                                |           1
+ Philippines                                      | Tarlac                                         |           1
+ Slovenia                                         | Celje                                          |           1
+ Poland                                           | Warminsko-Mazurskie                            |           1
+ Norway                                           | Nordland                                       |           1
+ Spain                                            | Segovia                                        |           1
+ Pakistan                                         | Thatta                                         |           1
+ England                                          | Buckinghamshire                                |           1
+ Indonesia                                        | Yogyakarta                                     |           1
+ Finland                                          | Puolanka                                       |           1
+ India                                            | Bhangarh                                       |           1
+ France                                           | Yvelines                                       |           1
+ Poland                                           | Slaskie                                        |           1
+ USA                                              | El Dorado County California                    |           1
+ Lithuania                                        | Vilnius                                        |           1
+ County Armagh                                    | Gosford Forest Park                            |           1
+ Iceland                                          | Westfjörds                                     |           1
+ Czech Republic                                   | Knovíz                                         |           1
+ UK                                               | Oxfordshire                                    |           1
+ USA                                              | New England                                    |           1
+ Brazil                                           | Bahia                                          |           1
+ Philippines                                      | Manila                                         |           1
+ Japan                                            | Ishikawa                                       |           1
+ France                                           | French Alps                                    |           1
+ Japan                                            | Hyogo                                          |           1
+ Norway                                           | Tromsø                                         |           1
+ France                                           | Somme                                          |           1
+ Denmark                                          | Jylland                                        |           1
+ UK                                               | South Wales                                    |           1
+ Colombia                                         | Antioquia                                      |           1
+ Ecuador                                          | Guayas                                         |           1
+ Spain                                            | Old Madrid                                     |           1
+ France                                           | Gironde                                        |           1
+ France                                           | Finistère                                      |           1
+ USA                                              | Big Bear California                            |           1
+ Macedonia                                        | Skopje                                         |           1
+ South Korea                                      | Yeongnam                                       |           1
+ Turkey                                           | Aksaray                                        |           1
+ Belgium                                          | 8000 Brugge                                    |           1
+ Slovenia                                         | Catez ob Savi                                  |           1
+ India                                            | Madras                                         |           1
+ Mexico                                           | Nuevo León                                     |           1
+ Macedonia                                        | Saramzalino                                    |           1
+ France                                           | Normandy                                       |           1
+ France                                           | Seine-Maritime                                 |           1
+ Norway                                           | Stord                                          |           1
+ Russia                                           | Crimea                                         |           1
+ UK                                               | Lincolnshire                                   |           1
+ Romania                                          | Cluj-Napoca                                    |           1
+ Montenegro                                       | Rose                                           |           1
+ UK                                               | Devon                                          |           1
+ Norway                                           | Akershus                                       |           1
+ China                                            | Qing Dao                                       |           1
+ France                                           | Midi-Pyrénées                                  |           1
+ Ireland                                          | County Offaly                                  |           1
+ Sweden                                           | Gävleborgs län                                 |           1
+ Germany                                          | Frankfurt                                      |           1
+ USA                                              | McKinley Pennsylvania                          |           1
+ USA                                              | Wyoming                                        |           1
+ Chile                                            | Chiloe                                         |           1
+ Romania                                          | Transylvania                                   |           1
+ Russia                                           | Yaroslavl Oblast                               |           1
+ Philippines                                      | Bulacan                                        |           1
+ Venezuela                                        | Aragua                                         |           1
+ Florida. USA                                     | Winter Park                                    |           1
+ Sweden                                           | Tomelilla                                      |           1
+ Ireland                                          | County Sligo                                   |           1
+ Indonesia                                        | Negara                                         |           1
+ India                                            | Uttarakhand                                    |           1
+ The Netherlands                                  | Amsterdam                                      |           1
+ Israel                                           | Tel Aviv                                       |           1
+ Sweden                                           | Uppsala län                                    |           1
+ Malta                                            | The Island of Gozo                             |           1
+ Italy                                            | Trieste                                        |           1
+ South Korea                                      | Daejon                                         |           1
+ USA                                              | Callifornia                                    |           1
+ Portugal                                         | Seia                                           |           1
+ Argentina                                        | Salta                                          |           1
+ Northern Ireland                                 | Belfast                                        |           1
+ Georgia                                          | Tbilisi                                        |           1
+ France                                           | Auvergne                                       |           1
+ Germany                                          | Börnicke                                       |           1
+ Sweden                                           | Norrbottens län                                |           1
+ Japan                                            | Shiga                                          |           1
+ Malaysia                                         | Johor                                          |           1
+ Morocco                                          | Essaouira                                      |           1
+ USA                                              | Atlanta Georgia                                |           1
+ India                                            | Imphal                                         |           1
+ France                                           | Loiret                                         |           1
+ Finland                                          | Nummi-Pusula                                   |           1
+ France                                           | Haute-Garonne                                  |           1
+ Italy                                            | Muzzana del Turgnano                           |           1
+ Denmark                                          | Studie 4                                       |           1
+ Thailand                                         | Nakhon Sawan                                   |           1
+(335 rows)
+

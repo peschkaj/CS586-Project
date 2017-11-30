@@ -1,0 +1,85 @@
+     country_name      | moviews_released 
+-----------------------+------------------
+ Argentina             |               31
+ Australia             |               78
+ Austria               |               16
+ Bahrain               |                4
+ Belarus               |                1
+ Belgium               |               27
+ Bolivia               |                2
+ Brazil                |               33
+ Bulgaria              |                1
+ Cambodia              |                1
+ Canada                |              140
+ Chile                 |                7
+ China                 |               20
+ Colombia              |                6
+ Cuba                  |                1
+ Czech Republic        |               10
+ Czechoslovakia        |                6
+ Denmark               |               30
+ Dominican Republic    |                1
+ Egypt                 |                4
+ Estonia               |                1
+ Finland               |               18
+ France                |              190
+ Georgia               |                2
+ Germany               |              133
+ Greece                |               14
+ Hong Kong             |              104
+ Hungary               |                9
+ Iceland               |                4
+ India                 |              191
+ Indonesia             |               58
+ Iran                  |                1
+ Ireland               |               27
+ Israel                |                7
+ Italy                 |              227
+ Japan                 |              357
+ Kazakhstan            |                4
+ Kuwait                |               24
+ Latvia                |                1
+ Malaysia              |               24
+ Maldives              |                1
+ Mexico                |               83
+ Morocco               |                1
+ Netherlands           |               39
+ New Zealand           |               12
+ Nigeria               |                1
+ Norway                |               24
+ Pakistan              |                4
+ Panama                |                1
+ Peru                  |               17
+ Philippines           |              129
+ Poland                |               15
+ Portugal              |               16
+ Puerto Rico           |                1
+ Qatar                 |                1
+ Romania               |                5
+ Russia                |               54
+ Serbia                |                4
+ Serbia and Montenegro |                1
+ Singapore             |               26
+ Slovakia              |                2
+ Slovenia              |                2
+ South Africa          |               11
+ South Korea           |              121
+ Soviet Union          |                3
+ Spain                 |              169
+ Sri Lanka             |                1
+ Sweden                |               52
+ Switzerland           |                5
+ Taiwan                |               18
+ Thailand              |               78
+ Turkey                |               64
+ UK                    |              423
+ USA                   |             5276
+ Ukraine               |                3
+ United Arab Emirates  |                5
+ Uruguay               |                3
+ Venezuela             |                3
+ Vietnam               |                6
+ West Germany          |               78
+ Yugoslavia            |                5
+(81 rows)
+

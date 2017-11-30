@@ -1,0 +1,785 @@
+     country_name     | release_year |  rating   | number_of_movies 
+----------------------+--------------+-----------+------------------
+ USA                  |         2014 | NOT RATED |              132
+ USA                  |         2015 | NOT RATED |              119
+ USA                  |         2013 | NOT RATED |               91
+ USA                  |         2016 | NOT RATED |               79
+ USA                  |         2009 | R         |               59
+ USA                  |         1989 | R         |               58
+ USA                  |         2012 | NOT RATED |               57
+ USA                  |         1988 | R         |               56
+ USA                  |         2007 | R         |               55
+ USA                  |         2006 | R         |               55
+ USA                  |         2011 | NOT RATED |               54
+ USA                  |         1990 | R         |               54
+ USA                  |         1987 | R         |               48
+ USA                  |         2010 | R         |               47
+ USA                  |         2008 | R         |               47
+ USA                  |         1981 | R         |               44
+ USA                  |         2005 | R         |               44
+ USA                  |         1995 | R         |               43
+ USA                  |         1980 | R         |               43
+ USA                  |         1982 | R         |               43
+ USA                  |         2017 | R         |               39
+ USA                  |         1986 | R         |               38
+ USA                  |         2004 | R         |               37
+ USA                  |         1991 | R         |               36
+ USA                  |         1974 | R         |               36
+ USA                  |         2002 | R         |               35
+ USA                  |         1973 | R         |               35
+ USA                  |         1998 | R         |               32
+ USA                  |         1983 | R         |               31
+ USA                  |         1972 | PG        |               31
+ USA                  |         2003 | R         |               30
+ USA                  |         1984 | R         |               29
+ USA                  |         1996 | R         |               28
+ USA                  |         1992 | R         |               28
+ USA                  |         1978 | R         |               27
+ USA                  |         1985 | R         |               27
+ USA                  |         1999 | R         |               27
+ USA                  |         1976 | R         |               26
+ USA                  |         1977 | PG        |               25
+ USA                  |         1975 | R         |               24
+ USA                  |         2001 | R         |               24
+ USA                  |         1957 | APPROVED  |               23
+ USA                  |         1993 | R         |               23
+ USA                  |         1979 | R         |               21
+ USA                  |         1994 | R         |               20
+ USA                  |         1997 | R         |               20
+ USA                  |         1971 | GP        |               19
+ USA                  |         1970 | R         |               18
+ USA                  |         2000 | R         |               18
+ USA                  |         1959 | APPROVED  |               14
+ USA                  |         1958 | APPROVED  |               13
+ USA                  |         1967 | UNRATED   |               13
+ USA                  |         1944 | APPROVED  |               11
+ UK                   |         2008 | R         |               11
+ USA                  |         1943 | APPROVED  |               11
+ UK                   |         2013 | NOT RATED |               11
+ USA                  |         1966 | UNRATED   |               11
+ UK                   |         2012 | R         |               11
+ USA                  |         1965 | UNRATED   |               10
+ USA                  |         1953 | APPROVED  |                9
+ Japan                |         2011 | NOT RATED |                9
+ UK                   |         2011 | R         |                9
+ UK                   |         2014 | NOT RATED |                9
+ USA                  |         1956 | APPROVED  |                9
+ USA                  |         1939 | APPROVED  |                8
+ USA                  |         1954 | APPROVED  |                8
+ Japan                |         2013 | NOT RATED |                8
+ UK                   |         2005 | R         |                7
+ USA                  |         1936 | APPROVED  |                7
+ USA                  |         1961 | UNRATED   |                7
+ USA                  |         1932 | PASSED    |                7
+ USA                  |         1964 | APPROVED  |                7
+ USA                  |         1940 | APPROVED  |                7
+ UK                   |         2002 | R         |                7
+ Spain                |         2005 | R         |                7
+ USA                  |         1941 | APPROVED  |                6
+ UK                   |         2006 | R         |                6
+ Philippines          |         2014 | NOT RATED |                6
+ Australia            |         2011 | NOT RATED |                6
+ France               |         2005 | R         |                6
+ Japan                |         2014 | NOT RATED |                6
+ USA                  |         1968 | NOT RATED |                6
+ USA                  |         1963 | APPROVED  |                6
+ USA                  |         1962 | NOT RATED |                6
+ USA                  |         1960 | UNRATED   |                6
+ Germany              |         2015 | NOT RATED |                6
+ UK                   |         2009 | R         |                6
+ UK                   |         2003 | R         |                5
+ Spain                |         2001 | R         |                5
+ Japan                |         2012 | R         |                5
+ South Korea          |         2006 | NOT RATED |                5
+ Russia               |         2013 | R         |                5
+ UK                   |         2016 | NOT RATED |                5
+ UK                   |         2015 | NOT RATED |                5
+ South Korea          |         2003 | R         |                5
+ Japan                |         2009 | R         |                5
+ Italy                |         1988 | R         |                5
+ Italy                |         1989 | R         |                5
+ USA                  |         1945 | APPROVED  |                5
+ Germany              |         2000 | R         |                5
+ USA                  |         1935 | APPROVED  |                4
+ France               |         2008 | R         |                4
+ France               |         2010 | NOT RATED |                4
+ South Korea          |         2004 | R         |                4
+ South Korea          |         2009 | R         |                4
+ South Korea          |         2010 | NOT RATED |                4
+ Japan                |         2015 | NOT RATED |                4
+ Canada               |         2004 | R         |                4
+ Thailand             |         2006 | R         |                4
+ Italy                |         1978 | NOT RATED |                4
+ Turkey               |         2009 | R         |                4
+ UK                   |         1972 | R         |                4
+ Philippines          |         2016 | NOT RATED |                4
+ Italy                |         2007 | R         |                4
+ Australia            |         2010 | R         |                4
+ USA                  |         1933 | PASSED    |                4
+ France               |         2004 | R         |                4
+ USA                  |         1942 | APPROVED  |                4
+ USA                  |         1946 | APPROVED  |                4
+ USA                  |         1955 | APPROVED  |                4
+ USA                  |         1969 | R         |                4
+ Russia               |         2008 | R         |                4
+ Russia               |         2012 | R         |                4
+ West Germany         |         1988 | R         |                4
+ West Germany         |         1990 | R         |                4
+ Netherlands          |         2011 | NOT RATED |                3
+ Japan                |         2007 | R         |                3
+ Japan                |         2006 | R         |                3
+ Australia            |         2014 | NOT RATED |                3
+ Japan                |         2004 | R         |                3
+ UK                   |         1994 | R         |                3
+ Japan                |         2001 | R         |                3
+ Japan                |         2000 | R         |                3
+ Germany              |         2010 | NOT RATED |                3
+ Italy                |         1991 | UNRATED   |                3
+ Italy                |         2001 | R         |                3
+ Germany              |         2008 | R         |                3
+ France               |         2007 | R         |                3
+ Philippines          |         2013 | R         |                3
+ Japan                |         1992 | R         |                3
+ France               |         2006 | NOT RATED |                3
+ Germany              |         2012 | R         |                3
+ Australia            |         2008 | R         |                3
+ Italy                |         1987 | UNRATED   |                3
+ Spain                |         2008 | R         |                3
+ France               |         1989 | R         |                3
+ New Zealand          |         2007 | R         |                3
+ Italy                |         1990 | R         |                3
+ USA                  |         1948 | APPROVED  |                3
+ Thailand             |         2007 | NOT RATED |                3
+ USA                  |         1951 | PASSED    |                3
+ UK                   |         2004 | R         |                3
+ Thailand             |         2004 | NOT RATED |                3
+ Germany              |         2016 | NOT RATED |                3
+ France               |         2002 | R         |                3
+ West Germany         |         1989 | R         |                3
+ Japan                |         1989 | R         |                3
+ Kuwait               |         2015 | NOT RATED |                3
+ Kuwait               |         2014 | R         |                3
+ UK                   |         2007 | R         |                3
+ India                |         2010 | NOT RATED |                3
+ Italy                |         1973 | NOT RATED |                3
+ France               |         2014 | NOT RATED |                3
+ Philippines          |         2015 | NOT RATED |                3
+ France               |         2013 | NOT RATED |                3
+ Mexico               |         2009 | R         |                3
+ Mexico               |         2007 | R         |                3
+ USA                  |         1931 | APPROVED  |                3
+ Italy                |         1980 | UNRATED   |                3
+ South Korea          |         2011 | R         |                3
+ France               |         2001 | NOT RATED |                3
+ Germany              |         1997 | R         |                3
+ South Korea          |         2005 | NOT RATED |                3
+ South Korea          |         2002 | R         |                3
+ UK                   |         2010 | NOT RATED |                3
+ Portugal             |         1992 | R         |                2
+ France               |         1988 | R         |                2
+ Ireland              |         2011 | R         |                2
+ Germany              |         2003 | R         |                2
+ Belgium              |         2010 | NOT RATED |                2
+ Canada               |         2005 | R         |                2
+ Mexico               |         2010 | NOT RATED |                2
+ Argentina            |         2013 | R         |                2
+ Canada               |         2002 | R         |                2
+ Canada               |         2001 | R         |                2
+ Canada               |         2000 | R         |                2
+ Australia            |         2003 | R         |                2
+ Spain                |         2015 | NOT RATED |                2
+ Mexico               |         1966 | UNRATED   |                2
+ West Germany         |         1986 | R         |                2
+ Spain                |         2013 | UNRATED   |                2
+ Spain                |         2012 | R         |                2
+ Spain                |         2011 | NOT RATED |                2
+ Australia            |         2000 | NOT RATED |                2
+ Spain                |         2009 | R         |                2
+ France               |         2017 | R         |                2
+ Spain                |         2006 | NOT RATED |                2
+ Finland              |         1955 | APPROVED  |                2
+ Spain                |         2003 | R         |                2
+ India                |         2014 | UNRATED   |                2
+ India                |         2013 | NOT RATED |                2
+ Belgium              |         2012 | R         |                2
+ India                |         2011 | NOT RATED |                2
+ Kuwait               |         2016 | NOT RATED |                2
+ Kuwait               |         2012 | R         |                2
+ Spain                |         1976 | NOT RATED |                2
+ France               |         2012 | NOT RATED |                2
+ Japan                |         2016 | NOT RATED |                2
+ South Korea          |         2016 | NOT RATED |                2
+ Japan                |         2010 | NOT RATED |                2
+ South Korea          |         2007 | NOT RATED |                2
+ Japan                |         2008 | R         |                2
+ South Korea          |         1999 | R         |                2
+ Canada               |         1991 | R         |                2
+ Japan                |         2003 | R         |                2
+ Japan                |         1999 | R         |                2
+ Japan                |         1998 | R         |                2
+ France               |         2009 | NOT RATED |                2
+ Japan                |         1996 | R         |                2
+ Japan                |         1993 | R         |                2
+ Japan                |         1990 | R         |                2
+ Ukraine              |         2013 | NOT RATED |                2
+ Hong Kong            |         2003 | R         |                2
+ Hong Kong            |         2004 | R         |                2
+ Japan                |         1960 | NOT RATED |                2
+ France               |         1990 | R         |                2
+ Russia               |         2005 | R         |                2
+ Russia               |         2006 | R         |                2
+ Japan                |         1967 | UNRATED   |                2
+ West Germany         |         1987 | NOT RATED |                2
+ Denmark              |         2007 | R         |                2
+ Russia               |         2010 | R         |                2
+ Russia               |         2011 | R         |                2
+ Russia               |         2016 | TV-MA     |                2
+ West Germany         |         1971 | UNRATED   |                2
+ Canada               |         2009 | R         |                2
+ Italy                |         1972 | NOT RATED |                2
+ Italy                |         1974 | NOT RATED |                2
+ France               |         1973 | R         |                2
+ Italy                |         1977 | NOT RATED |                2
+ Canada               |         1988 | R         |                2
+ Japan                |         1987 | R         |                2
+ Italy                |         1979 | NOT RATED |                2
+ Italy                |         1981 | NOT RATED |                2
+ Greece               |         2006 | R         |                2
+ France               |         1975 | NOT RATED |                2
+ Canada               |         2010 | NOT RATED |                2
+ Norway               |         2012 | NOT RATED |                2
+ UK                   |         1945 | APPROVED  |                2
+ Australia            |         1988 | R         |                2
+ UK                   |         1959 | NOT RATED |                2
+ France               |         1970 | R         |                2
+ France               |         1978 | R         |                2
+ Italy                |         1993 | R         |                2
+ France               |         1979 | PG        |                2
+ Canada               |         1976 | R         |                2
+ France               |         1981 | NOT RATED |                2
+ Philippines          |         2007 | R         |                2
+ Japan                |         1975 | NOT RATED |                2
+ Philippines          |         2008 | R         |                2
+ UK                   |         1975 | R         |                2
+ Philippines          |         2009 | R         |                2
+ Philippines          |         2010 | R         |                2
+ Australia            |         2007 | R         |                2
+ UK                   |         1987 | R         |                2
+ Canada               |         2008 | R         |                2
+ UK                   |         1990 | R         |                2
+ UK                   |         1995 | R         |                2
+ Hong Kong            |         1993 | UNRATED   |                2
+ UK                   |         2000 | R         |                2
+ Canada               |         2014 | NOT RATED |                2
+ Thailand             |         2008 | R         |                2
+ Canada               |         2007 | R         |                2
+ Netherlands          |         2012 | R         |                2
+ Italy                |         1964 | NOT RATED |                2
+ Italy                |         1963 | UNRATED   |                2
+ Netherlands          |         2004 | R         |                2
+ Germany              |         2013 | R         |                2
+ West Germany         |         1978 | NOT RATED |                2
+ Argentina            |         2011 | R         |                2
+ USA                  |         1921 | UNRATED   |                2
+ USA                  |         1922 | NOT RATED |                2
+ Italy                |         2009 | NOT RATED |                2
+ France               |         1986 | R         |                2
+ USA                  |         1925 | UNRATED   |                2
+ USA                  |         1927 | UNRATED   |                2
+ USA                  |         1928 | NOT RATED |                2
+ Germany              |         2011 | NOT RATED |                2
+ West Germany         |         1980 | NOT RATED |                2
+ Italy                |         2012 | NOT RATED |                2
+ Singapore            |         2005 | R         |                2
+ Sweden               |         2015 | NOT RATED |                2
+ Germany              |         2009 | R         |                2
+ Singapore            |         2006 | R         |                2
+ Germany              |         2006 | R         |                2
+ Canada               |         2006 | NOT RATED |                2
+ Ireland              |         2012 | NOT RATED |                2
+ West Germany         |         1983 | R         |                2
+ USA                  |         1947 | APPROVED  |                2
+ Peru                 |         2013 | UNRATED   |                1
+ Peru                 |         2014 | UNRATED   |                1
+ Peru                 |         2015 | R         |                1
+ Peru                 |         2016 | NOT RATED |                1
+ Philippines          |         1969 | M         |                1
+ Philippines          |         2001 | PG-13     |                1
+ Philippines          |         2005 | R         |                1
+ Philippines          |         2011 | NOT RATED |                1
+ Philippines          |         2017 | R         |                1
+ Poland               |         1972 | NOT RATED |                1
+ Poland               |         2014 | UNRATED   |                1
+ Poland               |         2015 | NOT RATED |                1
+ Poland               |         2016 | TV-14     |                1
+ Poland               |         2017 | NOT RATED |                1
+ Portugal             |         1944 | PASSED    |                1
+ Portugal             |         1988 | R         |                1
+ Portugal             |         1989 | PG-13     |                1
+ Portugal             |         1991 | R         |                1
+ Portugal             |         1994 | R         |                1
+ Portugal             |         2005 | R         |                1
+ Portugal             |         2006 | NOT RATED |                1
+ Portugal             |         2007 | R         |                1
+ Qatar                |         2013 | R         |                1
+ Russia               |         1993 | R         |                1
+ Russia               |         2007 | UNRATED   |                1
+ Russia               |         2009 | R         |                1
+ Russia               |         2017 | PG-13     |                1
+ Serbia               |         2014 | NOT RATED |                1
+ Singapore            |         1998 | R         |                1
+ Singapore            |         1999 | R         |                1
+ Singapore            |         2003 | R         |                1
+ Singapore            |         2007 | R         |                1
+ Singapore            |         2008 | NOT RATED |                1
+ Singapore            |         2009 | R         |                1
+ Singapore            |         2011 | R         |                1
+ Singapore            |         2013 | R         |                1
+ Singapore            |         2014 | NOT RATED |                1
+ Argentina            |         1944 | NOT RATED |                1
+ South Africa         |         1987 | R         |                1
+ South Africa         |         1988 | R         |                1
+ South Africa         |         1997 | R         |                1
+ South Africa         |         1998 | R         |                1
+ South Africa         |         2002 | NOT RATED |                1
+ South Africa         |         2007 | R         |                1
+ South Africa         |         2009 | NOT RATED |                1
+ South Korea          |         1967 | G         |                1
+ South Korea          |         1981 | NOT RATED |                1
+ South Korea          |         1988 | R         |                1
+ South Korea          |         1989 | R         |                1
+ South Korea          |         1991 | R         |                1
+ South Korea          |         1993 | R         |                1
+ South Korea          |         1994 | R         |                1
+ South Korea          |         1995 | UNRATED   |                1
+ South Korea          |         1998 | R         |                1
+ South Korea          |         2000 | R         |                1
+ South Korea          |         2001 | R         |                1
+ South Korea          |         2008 | R         |                1
+ South Korea          |         2012 | NOT RATED |                1
+ South Korea          |         2013 | NOT RATED |                1
+ South Korea          |         2014 | TV-14     |                1
+ Spain                |         1964 | NOT RATED |                1
+ Spain                |         1970 | X         |                1
+ Spain                |         1972 | PG        |                1
+ Spain                |         1973 | R         |                1
+ Spain                |         1974 | NOT RATED |                1
+ Spain                |         1981 | UNRATED   |                1
+ Spain                |         1983 | UNRATED   |                1
+ Spain                |         1984 | NOT RATED |                1
+ Spain                |         1988 | NOT RATED |                1
+ Spain                |         1992 | PG-13     |                1
+ Spain                |         1994 | R         |                1
+ Spain                |         1996 | UNRATED   |                1
+ Spain                |         1997 | UNRATED   |                1
+ Spain                |         1999 | R         |                1
+ Spain                |         2000 | R         |                1
+ Spain                |         2004 | R         |                1
+ Spain                |         2007 | NOT RATED |                1
+ Spain                |         2010 | NOT RATED |                1
+ Spain                |         2014 | R         |                1
+ Spain                |         2016 | R         |                1
+ Spain                |         2017 | PG-13     |                1
+ Sweden               |         1920 | TV-14     |                1
+ Sweden               |         1956 | APPROVED  |                1
+ Sweden               |         1962 | NOT RATED |                1
+ Sweden               |         1965 | NOT RATED |                1
+ Sweden               |         1969 | M         |                1
+ Sweden               |         1972 | GP        |                1
+ Sweden               |         1974 | R         |                1
+ Sweden               |         1975 | R         |                1
+ Sweden               |         1979 | PG        |                1
+ Sweden               |         1983 | R         |                1
+ Sweden               |         1987 | R         |                1
+ Sweden               |         1988 | R         |                1
+ Sweden               |         1991 | R         |                1
+ Sweden               |         1997 | R         |                1
+ Sweden               |         2003 | R         |                1
+ Sweden               |         2005 | R         |                1
+ Sweden               |         2010 | R         |                1
+ Sweden               |         2013 | NOT RATED |                1
+ Sweden               |         2016 | PG-13     |                1
+ Switzerland          |         2014 | NOT RATED |                1
+ Taiwan               |         1985 | PG-13     |                1
+ Taiwan               |         1990 | R         |                1
+ Taiwan               |         2002 | R         |                1
+ Taiwan               |         2005 | R         |                1
+ Taiwan               |         2006 | NOT RATED |                1
+ Taiwan               |         2012 | R         |                1
+ Taiwan               |         2013 | R         |                1
+ Taiwan               |         2015 | NOT RATED |                1
+ Thailand             |         1980 | R         |                1
+ Thailand             |         2002 | R         |                1
+ Thailand             |         2011 | NOT RATED |                1
+ Thailand             |         2012 | R         |                1
+ Thailand             |         2013 | NOT RATED |                1
+ Turkey               |         1959 | UNRATED   |                1
+ Turkey               |         1982 | NOT RATED |                1
+ Turkey               |         1996 | R         |                1
+ Turkey               |         2003 | R         |                1
+ Turkey               |         2006 | NOT RATED |                1
+ Turkey               |         2007 | R         |                1
+ Turkey               |         2008 | R         |                1
+ Turkey               |         2011 | R         |                1
+ Turkey               |         2013 | NOT RATED |                1
+ Turkey               |         2014 | NOT RATED |                1
+ Turkey               |         2015 | R         |                1
+ Turkey               |         2016 | NOT RATED |                1
+ Turkey               |         2017 | R         |                1
+ UK                   |         1941 | NOT RATED |                1
+ UK                   |         1944 | UNRATED   |                1
+ UK                   |         1949 | APPROVED  |                1
+ UK                   |         1958 | NOT RATED |                1
+ UK                   |         1960 | APPROVED  |                1
+ UK                   |         1961 | UNRATED   |                1
+ UK                   |         1962 | NOT RATED |                1
+ UK                   |         1964 | UNRATED   |                1
+ UK                   |         1965 | UNRATED   |                1
+ UK                   |         1966 | NOT RATED |                1
+ UK                   |         1967 | NOT RATED |                1
+ UK                   |         1968 | G         |                1
+ UK                   |         1970 | NOT RATED |                1
+ UK                   |         1973 | PG        |                1
+ UK                   |         1978 | PG        |                1
+ UK                   |         1979 | PG        |                1
+ UK                   |         1980 | PG        |                1
+ UK                   |         1984 | PG-13     |                1
+ UK                   |         1988 | NOT RATED |                1
+ UK                   |         1992 | UNRATED   |                1
+ UK                   |         1993 | R         |                1
+ UK                   |         1998 | R         |                1
+ UK                   |         1999 | R         |                1
+ UK                   |         2001 | NOT RATED |                1
+ UK                   |         2017 | NOT RATED |                1
+ USA                  |         1913 | APPROVED  |                1
+ USA                  |         1914 | NOT RATED |                1
+ USA                  |         1923 | UNRATED   |                1
+ USA                  |         1924 | PASSED    |                1
+ USA                  |         1926 | PASSED    |                1
+ USA                  |         1934 | APPROVED  |                1
+ USA                  |         1949 | APPROVED  |                1
+ USA                  |         1952 | UNRATED   |                1
+ United Arab Emirates |         2007 | R         |                1
+ United Arab Emirates |         2009 | R         |                1
+ United Arab Emirates |         2012 | R         |                1
+ United Arab Emirates |         2013 | NOT RATED |                1
+ Uruguay              |         2011 | NOT RATED |                1
+ Venezuela            |         2009 | R         |                1
+ Venezuela            |         2013 | UNRATED   |                1
+ Venezuela            |         2015 | R         |                1
+ Vietnam              |         2012 | NOT RATED |                1
+ West Germany         |         1958 | UNRATED   |                1
+ West Germany         |         1960 | UNRATED   |                1
+ West Germany         |         1963 | UNRATED   |                1
+ West Germany         |         1964 | G         |                1
+ West Germany         |         1967 | NOT RATED |                1
+ West Germany         |         1969 | M         |                1
+ West Germany         |         1972 | NOT RATED |                1
+ West Germany         |         1974 | PG        |                1
+ West Germany         |         1976 | R         |                1
+ West Germany         |         1977 | NOT RATED |                1
+ West Germany         |         1979 | NOT RATED |                1
+ West Germany         |         1981 | R         |                1
+ West Germany         |         1982 | UNRATED   |                1
+ West Germany         |         1985 | NOT RATED |                1
+ South Africa         |         1974 | PG        |                1
+ Argentina            |         1971 | X         |                1
+ Argentina            |         1974 | R         |                1
+ Argentina            |         1994 | R         |                1
+ Argentina            |         2001 | R         |                1
+ Argentina            |         2004 | R         |                1
+ Argentina            |         2008 | R         |                1
+ Argentina            |         2012 | NOT RATED |                1
+ Argentina            |         2014 | R         |                1
+ Australia            |         1980 | PG        |                1
+ Australia            |         1981 | NOT RATED |                1
+ Australia            |         1982 | R         |                1
+ Australia            |         1990 | R         |                1
+ Australia            |         1992 | R         |                1
+ Australia            |         1994 | NOT RATED |                1
+ Australia            |         1997 | R         |                1
+ Australia            |         2005 | R         |                1
+ Australia            |         2006 | R         |                1
+ Australia            |         2009 | NOT RATED |                1
+ Australia            |         2012 | R         |                1
+ Australia            |         2013 | NOT RATED |                1
+ Australia            |         2015 | PG-13     |                1
+ Australia            |         2017 | NOT RATED |                1
+ Austria              |         1952 | APPROVED  |                1
+ Austria              |         1985 | PG        |                1
+ Austria              |         2006 | R         |                1
+ Austria              |         2013 | NOT RATED |                1
+ Austria              |         2014 | UNRATED   |                1
+ Bahrain              |         2004 | R         |                1
+ Bahrain              |         2012 | PG-13     |                1
+ Bahrain              |         2013 | R         |                1
+ Belarus              |         2014 | R         |                1
+ Belgium              |         1974 | NOT RATED |                1
+ Belgium              |         1975 | NOT RATED |                1
+ Belgium              |         1986 | NOT RATED |                1
+ Belgium              |         2002 | NOT RATED |                1
+ Belgium              |         2005 | NOT RATED |                1
+ Belgium              |         2008 | NOT RATED |                1
+ Belgium              |         2013 | PG-13     |                1
+ Belgium              |         2014 | NOT RATED |                1
+ Bolivia              |         2011 | NOT RATED |                1
+ Brazil               |         1951 | APPROVED  |                1
+ Brazil               |         1992 | UNRATED   |                1
+ Brazil               |         1993 | R         |                1
+ Brazil               |         1994 | R         |                1
+ Brazil               |         1996 | PG-13     |                1
+ Brazil               |         1999 | R         |                1
+ Brazil               |         2008 | NOT RATED |                1
+ Brazil               |         2011 | R         |                1
+ Brazil               |         2012 | R         |                1
+ Brazil               |         2015 | R         |                1
+ Brazil               |         2016 | TV-MA     |                1
+ Canada               |         1965 | NOT RATED |                1
+ Canada               |         1968 | R         |                1
+ Canada               |         1974 | X         |                1
+ Canada               |         1981 | R         |                1
+ Canada               |         1983 | R         |                1
+ Canada               |         1985 | UNRATED   |                1
+ Canada               |         1987 | PG-13     |                1
+ Canada               |         1989 | R         |                1
+ Canada               |         1990 | R         |                1
+ Canada               |         1993 | R         |                1
+ Canada               |         1994 | R         |                1
+ Canada               |         1996 | PG        |                1
+ Canada               |         1998 | R         |                1
+ Canada               |         2003 | R         |                1
+ Canada               |         2011 | R         |                1
+ Canada               |         2012 | R         |                1
+ Canada               |         2013 | TV-14     |                1
+ Canada               |         2015 | NOT RATED |                1
+ Canada               |         2016 | R         |                1
+ Canada               |         2017 | NOT RATED |                1
+ Chile                |         2009 | R         |                1
+ Chile                |         2014 | R         |                1
+ China                |         2006 | R         |                1
+ China                |         2008 | R         |                1
+ China                |         2012 | PG-13     |                1
+ China                |         2013 | PG-13     |                1
+ China                |         2016 | NOT RATED |                1
+ Colombia             |         2011 | NOT RATED |                1
+ Colombia             |         2016 | TV-14     |                1
+ Cuba                 |         1985 | NOT RATED |                1
+ Czech Republic       |         2008 | R         |                1
+ Czech Republic       |         2010 | NOT RATED |                1
+ Czech Republic       |         2015 | NOT RATED |                1
+ Czechoslovakia       |         1970 | NOT RATED |                1
+ Denmark              |         1920 | UNRATED   |                1
+ Denmark              |         1929 | PASSED    |                1
+ Denmark              |         1961 | PASSED    |                1
+ Denmark              |         1962 | APPROVED  |                1
+ Denmark              |         1964 | NOT RATED |                1
+ Denmark              |         1973 | R         |                1
+ Denmark              |         1983 | R         |                1
+ Denmark              |         1985 | PG        |                1
+ Denmark              |         1987 | NOT RATED |                1
+ Denmark              |         1998 | R         |                1
+ Denmark              |         2003 | NOT RATED |                1
+ Denmark              |         2005 | NOT RATED |                1
+ Denmark              |         2009 | NOT RATED |                1
+ Denmark              |         2012 | R         |                1
+ Egypt                |         2010 | R         |                1
+ Egypt                |         2015 | PG-13     |                1
+ Finland              |         1948 | NOT RATED |                1
+ Finland              |         1959 | UNRATED   |                1
+ Finland              |         1962 | PG        |                1
+ Finland              |         1973 | PG        |                1
+ Finland              |         1984 | R         |                1
+ Finland              |         1993 | R         |                1
+ Finland              |         2003 | R         |                1
+ Finland              |         2008 | UNRATED   |                1
+ Finland              |         2010 | R         |                1
+ Finland              |         2012 | NOT RATED |                1
+ France               |         1960 | NOT RATED |                1
+ France               |         1965 | NOT RATED |                1
+ France               |         1969 | R         |                1
+ France               |         1972 | UNRATED   |                1
+ France               |         1976 | PG        |                1
+ France               |         1977 | NOT RATED |                1
+ France               |         1980 | R         |                1
+ France               |         1982 | NOT RATED |                1
+ France               |         1983 | R         |                1
+ France               |         1984 | UNRATED   |                1
+ France               |         1985 | R         |                1
+ France               |         1987 | NOT RATED |                1
+ France               |         1992 | R         |                1
+ France               |         1994 | R         |                1
+ France               |         2000 | R         |                1
+ France               |         2003 | R         |                1
+ France               |         2011 | NOT RATED |                1
+ France               |         2015 | NOT RATED |                1
+ France               |         2016 | TV-14     |                1
+ Georgia              |         2011 | R         |                1
+ Germany              |         1932 | NOT RATED |                1
+ Germany              |         1990 | NOT RATED |                1
+ Germany              |         1992 | NOT RATED |                1
+ Germany              |         1993 | NOT RATED |                1
+ Germany              |         1998 | R         |                1
+ Germany              |         1999 | R         |                1
+ Germany              |         2001 | NOT RATED |                1
+ Germany              |         2002 | R         |                1
+ Germany              |         2004 | NOT RATED |                1
+ Germany              |         2014 | UNRATED   |                1
+ Greece               |         1976 | NOT RATED |                1
+ Greece               |         1988 | R         |                1
+ Greece               |         1990 | NOT RATED |                1
+ Greece               |         2002 | PG-13     |                1
+ Greece               |         2008 | UNRATED   |                1
+ Greece               |         2009 | NOT RATED |                1
+ Greece               |         2010 | NOT RATED |                1
+ Hong Kong            |         1979 | NOT RATED |                1
+ Hong Kong            |         1980 | UNRATED   |                1
+ Hong Kong            |         1982 | R         |                1
+ Hong Kong            |         1991 | UNRATED   |                1
+ Hong Kong            |         1992 | NOT RATED |                1
+ Hong Kong            |         1994 | UNRATED   |                1
+ Hong Kong            |         1996 | NOT RATED |                1
+ Hong Kong            |         1998 | UNRATED   |                1
+ Hong Kong            |         2000 | NOT RATED |                1
+ Hong Kong            |         2001 | UNRATED   |                1
+ Hong Kong            |         2002 | R         |                1
+ Hong Kong            |         2005 | PG-13     |                1
+ Hong Kong            |         2006 | R         |                1
+ Hong Kong            |         2007 | R         |                1
+ Hong Kong            |         2009 | R         |                1
+ Hong Kong            |         2010 | R         |                1
+ Hong Kong            |         2014 | NOT RATED |                1
+ Hungary              |         2009 | NOT RATED |                1
+ Hungary              |         2012 | NOT RATED |                1
+ Hungary              |         2014 | R         |                1
+ Iceland              |         2005 | R         |                1
+ Iceland              |         2009 | R         |                1
+ India                |         1984 | UNRATED   |                1
+ India                |         1986 | NOT RATED |                1
+ India                |         1988 | UNRATED   |                1
+ India                |         1989 | UNRATED   |                1
+ India                |         2001 | NOT RATED |                1
+ India                |         2004 | NOT RATED |                1
+ India                |         2007 | NOT RATED |                1
+ India                |         2009 | NOT RATED |                1
+ India                |         2012 | R         |                1
+ India                |         2015 | UNRATED   |                1
+ Indonesia            |         2009 | PG-13     |                1
+ Indonesia            |         2013 | NOT RATED |                1
+ Indonesia            |         2017 | NOT RATED |                1
+ Ireland              |         1961 | UNRATED   |                1
+ Ireland              |         1964 | UNRATED   |                1
+ Ireland              |         1973 | PG        |                1
+ Ireland              |         1977 | R         |                1
+ Ireland              |         2004 | R         |                1
+ Ireland              |         2005 | R         |                1
+ Ireland              |         2006 | R         |                1
+ Ireland              |         2007 | UNRATED   |                1
+ Ireland              |         2008 | NOT RATED |                1
+ Ireland              |         2010 | R         |                1
+ Ireland              |         2015 | NOT RATED |                1
+ Ireland              |         2016 | R         |                1
+ Israel               |         2004 | R         |                1
+ Israel               |         2007 | R         |                1
+ Israel               |         2010 | UNRATED   |                1
+ Israel               |         2016 | R         |                1
+ Italy                |         1960 | UNRATED   |                1
+ Italy                |         1962 | NOT RATED |                1
+ Italy                |         1965 | UNRATED   |                1
+ Italy                |         1966 | R         |                1
+ Italy                |         1967 | APPROVED  |                1
+ Italy                |         1968 | R         |                1
+ Italy                |         1969 | UNRATED   |                1
+ Italy                |         1970 | R         |                1
+ Italy                |         1975 | NOT RATED |                1
+ Italy                |         1982 | NOT RATED |                1
+ Italy                |         1983 | UNRATED   |                1
+ Italy                |         1984 | UNRATED   |                1
+ Italy                |         1985 | UNRATED   |                1
+ Italy                |         1992 | R         |                1
+ Italy                |         1995 | R         |                1
+ Italy                |         1996 | UNRATED   |                1
+ Italy                |         1997 | R         |                1
+ Italy                |         1998 | R         |                1
+ Italy                |         2004 | G         |                1
+ Italy                |         2005 | R         |                1
+ Italy                |         2006 | R         |                1
+ Italy                |         2008 | R         |                1
+ Italy                |         2010 | R         |                1
+ Italy                |         2011 | R         |                1
+ Italy                |         2014 | NOT RATED |                1
+ Italy                |         2015 | NOT RATED |                1
+ Italy                |         2016 | NOT RATED |                1
+ Italy                |         2017 | R         |                1
+ Japan                |         1963 | UNRATED   |                1
+ Japan                |         1968 | PG        |                1
+ Japan                |         1971 | PG        |                1
+ Japan                |         1973 | PG        |                1
+ Japan                |         1978 | R         |                1
+ Japan                |         1980 | PG        |                1
+ Japan                |         1981 | PG        |                1
+ Japan                |         1986 | R         |                1
+ Japan                |         1988 | R         |                1
+ Japan                |         1991 | R         |                1
+ Japan                |         1994 | R         |                1
+ Japan                |         1995 | UNRATED   |                1
+ Japan                |         1997 | R         |                1
+ Japan                |         2002 | R         |                1
+ Japan                |         2005 | R         |                1
+ Japan                |         2017 | UNRATED   |                1
+ Kazakhstan           |         2010 | R         |                1
+ Kazakhstan           |         2011 | NOT RATED |                1
+ Kuwait               |         2009 | R         |                1
+ Latvia               |         2015 | TV-MA     |                1
+ Malaysia             |         2000 | PG-13     |                1
+ Malaysia             |         2013 | PG-13     |                1
+ Mexico               |         1921 | PASSED    |                1
+ Mexico               |         1962 | UNRATED   |                1
+ Mexico               |         1964 | NOT RATED |                1
+ Mexico               |         1965 | NOT RATED |                1
+ Mexico               |         1971 | PG        |                1
+ Mexico               |         1978 | NOT RATED |                1
+ Mexico               |         1981 | PG        |                1
+ Mexico               |         1989 | NOT RATED |                1
+ Mexico               |         1991 | R         |                1
+ Mexico               |         1992 | R         |                1
+ Mexico               |         1994 | R         |                1
+ Mexico               |         2011 | NOT RATED |                1
+ Mexico               |         2012 | NOT RATED |                1
+ Mexico               |         2013 | NOT RATED |                1
+ Mexico               |         2014 | PG-13     |                1
+ Mexico               |         2015 | UNRATED   |                1
+ Mexico               |         2017 | NOT RATED |                1
+ Morocco              |         2008 | NOT RATED |                1
+ Netherlands          |         1959 | UNRATED   |                1
+ Netherlands          |         1982 | R         |                1
+ Netherlands          |         1985 | R         |                1
+ Netherlands          |         1997 | R         |                1
+ Netherlands          |         2000 | R         |                1
+ Netherlands          |         2001 | R         |                1
+ Netherlands          |         2002 | R         |                1
+ Netherlands          |         2009 | R         |                1
+ Netherlands          |         2010 | PG-13     |                1
+ Netherlands          |         2013 | NOT RATED |                1
+ Netherlands          |         2014 | UNRATED   |                1
+ Netherlands          |         2015 | R         |                1
+ Netherlands          |         2016 | NOT RATED |                1
+ New Zealand          |         2001 | NOT RATED |                1
+ New Zealand          |         2011 | NOT RATED |                1
+ New Zealand          |         2012 | TV-MA     |                1
+ New Zealand          |         2014 | NOT RATED |                1
+ Norway               |         1971 | GP        |                1
+ Norway               |         1982 | R         |                1
+ Norway               |         1987 | NOT RATED |                1
+ Norway               |         2003 | NOT RATED |                1
+ Norway               |         2005 | UNRATED   |                1
+ Norway               |         2006 | NOT RATED |                1
+ Norway               |         2008 | NOT RATED |                1
+ Norway               |         2009 | NOT RATED |                1
+ Norway               |         2010 | PG-13     |                1
+ Norway               |         2011 | R         |                1
+ Norway               |         2015 | NOT RATED |                1
+ Pakistan             |         1967 | UNRATED   |                1
+ Peru                 |         1963 | APPROVED  |                1
+ Peru                 |         1988 | R         |                1
+(781 rows)
+

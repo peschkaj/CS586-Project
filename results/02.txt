@@ -1,0 +1,917 @@
+ release_year |                                                                            title                                                                             |    budget    
+--------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------
+         2019 | Twisted (2019)                                                                                                                                               |    132000.00
+         2018 | The House That Jack Built (2018)                                                                                                                             |  10179000.00
+         2017 | 315 Wicked Way (2017)                                                                                                                                        |   1000000.00
+         2017 | 6Days66Years (2017)                                                                                                                                          |   1000000.00
+         2017 | Alien: Covenant (2017)                                                                                                                                       |  97000000.00
+         2017 | Alpha Delta Zatan (2017)                                                                                                                                     |     50000.00
+         2017 | Apollyon (2017)                                                                                                                                              |   1000000.00
+         2017 | Bacchanalia (2017)                                                                                                                                           |   1000000.00
+         2017 | Black Creek (2017)                                                                                                                                           |   3000000.00
+         2017 | Black Hollow Cage (2017)                                                                                                                                     |   1755000.00
+         2017 | Blood Dynasty (2017)                                                                                                                                         |    500000.00
+         2017 | Charlie Charlie (2017)                                                                                                                                       |   1000000.00
+         2017 | Date of the Dead (2015)                                                                                                                                      |     50000.00
+         2017 | Demonic (2015)                                                                                                                                               |   3000000.00
+         2017 | Evil Bong 666 (2017)                                                                                                                                         |     50000.00
+         2017 | Exorcism of the 7th Demon (2017)                                                                                                                             |    500000.00
+         2017 | Get Out (2017)                                                                                                                                               |   5000000.00
+         2017 | Habit (2017)                                                                                                                                                 |   1000000.00
+         2017 | Halloween Tales (2017)                                                                                                                                       |    500000.00
+         2017 | Hind Ka Napak Ko Jawab (2017)                                                                                                                                |   5000000.00
+         2017 | Hollow's Ridge (2017)                                                                                                                                        |    500000.00
+         2017 | Holy Terror (2017)                                                                                                                                           |   1000000.00
+         2017 | House of Evil (2017)                                                                                                                                         |    500000.00
+         2017 | Illuminati (2017)                                                                                                                                            |   4000000.00
+         2017 | Inside Ben (2017)                                                                                                                                            |   1000000.00
+         2017 | Inside: A Chinese Horror Story (2017)                                                                                                                        |    500000.00
+         2017 | It Came from the Desert (2017)                                                                                                                               |   1000000.00
+         2017 | It Comes at Night (2017)                                                                                                                                     |   5000000.00
+         2017 | Knights of the Damned (2017)                                                                                                                                 |   8316000.00
+         2017 | Mara (2017)                                                                                                                                                  |   5000000.00
+         2017 | Marrowbone (2017)                                                                                                                                            |   9360000.00
+         2017 | Muerte: Tales of Horror (2017)                                                                                                                               |    500000.00
+         2017 | Nails (2017)                                                                                                                                                 |   5850000.00
+         2017 | Nilalang (2015)                                                                                                                                              |   1000000.00
+         2017 | Ojos de madera (2017)                                                                                                                                        |    395000.00
+         2017 | Paranoia Tapes (2017)                                                                                                                                        |      3000.00
+         2017 | Personal Shopper (2016)                                                                                                                                      |   6000000.00
+         2017 | Phantasmagoria (2017)                                                                                                                                        |     23400.00
+         2017 | Raw (2016)                                                                                                                                                   |   4095000.00
+         2017 | Sargad (2017)                                                                                                                                                |      3000.00
+         2017 | Solomon's Requiem (2004)                                                                                                                                     |     50000.00
+         2017 | Sorceress (2017)                                                                                                                                             |    500000.00
+         2017 | Tales from the Dead Zone (2017)                                                                                                                              |   1000000.00
+         2017 | The Bad Batch (2016)                                                                                                                                         |   6000000.00
+         2017 | The Basement (2017)                                                                                                                                          |     50000.00
+         2017 | The Belko Experiment (2016)                                                                                                                                  |   5000000.00
+         2017 | The Campus (2017)                                                                                                                                            |    500000.00
+         2017 | The Church (2017)                                                                                                                                            |   1000000.00
+         2017 | The Endless (2017)                                                                                                                                           |   1000000.00
+         2017 | The Evil Within (2017)                                                                                                                                       |   6000000.00
+         2017 | The Hatching (2017)                                                                                                                                          |   5000000.00
+         2017 | The Little Vampire 3D (2017)                                                                                                                                 |  10000000.00
+         2017 | The Locksmith (2017)                                                                                                                                         |   1000000.00
+         2017 | The Other One (2017)                                                                                                                                         |     50000.00
+         2017 | The Vault (2017)                                                                                                                                             |   5000000.00
+         2017 | The curse of the mayans (2017)                                                                                                                               |   3000000.00
+         2017 | Truth or Double Dare (TODD) (2017)                                                                                                                           |   1000000.00
+         2017 | Ular Tangga (2017)                                                                                                                                           |   1000000.00
+         2017 | Una Comedia Macabra (2017)                                                                                                                                   |    600000.00
+         2017 | Wolf (2017)                                                                                                                                                  |     50000.00
+         2016 | 24 Hours to Die (2016)                                                                                                                                       |     93600.00
+         2016 | 31 (2016)                                                                                                                                                    |   1500000.00
+         2016 | Almost Dead (2016)                                                                                                                                           |   2000000.00
+         2016 | American Poltergeist (2016)                                                                                                                                  |   1500000.00
+         2016 | Another World (2014)                                                                                                                                         |   1000000.00
+         2016 | Bayou Tales (2016)                                                                                                                                           |   1500000.00
+         2016 | Blood Lust (2016)                                                                                                                                            |   1000000.00
+         2016 | Bunker of the Dead (2015)                                                                                                                                    |    614250.00
+         2016 | Cementerio General 2 (2016)                                                                                                                                  |   1200000.00
+         2016 | Clown (2014)                                                                                                                                                 |   1500000.00
+         2016 | Compulsion (2016)                                                                                                                                            |   2000000.00
+         2016 | Cyborg X (2016)                                                                                                                                              |   1000000.00
+         2016 | Daylight's End (2016)                                                                                                                                        |   2000000.00
+         2016 | Dead End (2016)                                                                                                                                              |    350000.00
+         2016 | Delirium (2016)                                                                                                                                              |   1000000.00
+         2016 | Diário de um Exorcista - Zero (2016)                                                                                                                         |    650000.00
+         2016 | Don't Let Me Go (2013)                                                                                                                                       |   2000000.00
+         2016 | Feast of Fear (2016)                                                                                                                                         |   1100000.00
+         2016 | Genesis (2016)                                                                                                                                               |      2184.00
+         2016 | Ghost Goggles (2016)                                                                                                                                         |   1000000.00
+         2016 | Grafir & Bein (2016)                                                                                                                                         |    275000.00
+         2016 | House of Salem (2016)                                                                                                                                        |   1320000.00
+         2016 | Hush (2016)                                                                                                                                                  |   1000000.00
+         2016 | Insane (2016)                                                                                                                                                |   1000000.00
+         2016 | Intruder (2016)                                                                                                                                              |   1000000.00
+         2016 | Krampus: The Devil Returns (2016)                                                                                                                            |   1200000.00
+         2016 | La Niña de la Mina (2016)                                                                                                                                    |   1200000.00
+         2016 | Magi (2016)                                                                                                                                                  |   1100000.00
+         2016 | Martyrs (2015)                                                                                                                                               |   1000000.00
+         2016 | Neron (2016)                                                                                                                                                 |   1500000.00
+         2016 | Paranormal Island (2014)                                                                                                                                     |   2000000.00
+         2016 | Potent Media's Sugar Skull Girls (2016)                                                                                                                      |   1500000.00
+         2016 | Prey (2016)                                                                                                                                                  |   4130100.00
+         2016 | Quarantine L.A. (2013)                                                                                                                                       |   1200000.00
+         2016 | Queen of Spades: The Dark Rite (2015)                                                                                                                        |   1000000.00
+         2016 | Range 15 (2016)                                                                                                                                              |   1000000.00
+         2016 | Skookum: The Hunt for Bigfoot (2016)                                                                                                                         |   1000000.00
+         2016 | Slit Mouth Woman in LA (2014)                                                                                                                                |   1000000.00
+         2016 | Sorority Slaughterhouse (2016)                                                                                                                               |   1000000.00
+         2016 | Tank 432 (2015)                                                                                                                                              |   1320000.00
+         2016 | The Amityville Playhouse (2015)                                                                                                                              |    462000.00
+         2016 | The Canadoo (2016)                                                                                                                                           |   1500000.00
+         2016 | The Conjuring 2 (2016)                                                                                                                                       |  40000000.00
+         2016 | The Cursed Man (2016)                                                                                                                                        |   1000000.00
+         2016 | The Dead Room (2015)                                                                                                                                         |   1000000.00
+         2016 | The Emeryville Experiments (2016)                                                                                                                            |   1000000.00
+         2016 | The Hybrids Family (2015)                                                                                                                                    |   1500000.00
+         2016 | The Lesson (2015)                                                                                                                                            |   6956400.00
+         2016 | The Nightmare (2015)                                                                                                                                         |     93600.00
+         2016 | The Rezort (2015)                                                                                                                                            |   6600000.00
+         2016 | Vasos De Papel (2016)                                                                                                                                        |    350000.00
+         2016 | Without Name (2016)                                                                                                                                          |    409500.00
+         2015 | #Horror (2015)                                                                                                                                               |   1500000.00
+         2015 | Aftermath (2015)                                                                                                                                             |   2500000.00
+         2015 | Amnesiac (2014)                                                                                                                                              |   3000000.00
+         2015 | Apparition (2015)                                                                                                                                            |   3000000.00
+         2015 | Awaiting (2015)                                                                                                                                              |   3000000.00
+         2015 | Axe to Grind (2015)                                                                                                                                          |    550000.00
+         2015 | Bunny the Killer Thing (2015)                                                                                                                                |   1170000.00
+         2015 | Carver (2015)                                                                                                                                                |     30000.00
+         2015 | Darkside Witches (2015)                                                                                                                                      |   2340000.00
+         2015 | Demon Baby (2014)                                                                                                                                            |   1320000.00
+         2015 | Don't Grow Up (2015)                                                                                                                                         |   2340000.00
+         2015 | Evil Ed Special EDition (2015)                                                                                                                               |     30000.00
+         2015 | Extraordinary Tales (2013)                                                                                                                                   |   2340000.00
+         2015 | Goosebumps (2015)                                                                                                                                            |  58000000.00
+         2015 | Howl (2015)                                                                                                                                                  |   1320000.00
+         2015 | Infini (2015)                                                                                                                                                |    800000.00
+         2015 | Insidious: Chapter 3 (2015)                                                                                                                                  |  10000000.00
+         2015 | Into the Grizzly Maze (2015)                                                                                                                                 |  10000000.00
+         2015 | Jonah Lives (2015)                                                                                                                                           |   3000000.00
+         2015 | Kids vs Monsters (2015)                                                                                                                                      |   7600000.00
+         2015 | Killbillies (2015)                                                                                                                                           |    257400.00
+         2015 | Knock Knock (2015)                                                                                                                                           |   2500000.00
+         2015 | Krampus (2015)                                                                                                                                               |  15000000.00
+         2015 | Local God (2014)                                                                                                                                             |    550000.00
+         2015 | Mansion of Blood (2015)                                                                                                                                      |    800000.00
+         2015 | Ouija Summoning (2015)                                                                                                                                       |    150000.00
+         2015 | Paranormal Activity: The Ghost Dimension (2015)                                                                                                              |  10000000.00
+         2015 | Path (2015)                                                                                                                                                  |    150000.00
+         2015 | Potato Salad (2015)                                                                                                                                          |   1170000.00
+         2015 | Scouts Guide to the Zombie Apocalypse (2015)                                                                                                                 |  15000000.00
+         2015 | Second Origin (2015)                                                                                                                                         |   7020000.00
+         2015 | Silent Screams (2015)                                                                                                                                        |    154000.00
+         2015 | Sinister 2 (2015)                                                                                                                                            |  10000000.00
+         2015 | Skeleton Krew (2015)                                                                                                                                         |     13455.00
+         2015 | Speak No Evil (2013)                                                                                                                                         |    150000.00
+         2015 | Stung (2015)                                                                                                                                                 |   2500000.00
+         2015 | Take 2: The Audition (2015)                                                                                                                                  |  10000000.00
+         2015 | The Apostle (2012)                                                                                                                                           |  15000000.00
+         2015 | The Cabining (2014)                                                                                                                                          |   3000000.00
+         2015 | The Entity (2015)                                                                                                                                            |   3000000.00
+         2015 | The Final Girls (2015)                                                                                                                                       |   4500000.00
+         2015 | The Forgotten (2014)                                                                                                                                         |   1320000.00
+         2015 | The Horror Network Vol. 1 (2015)                                                                                                                             |   3000000.00
+         2015 | The Man in the Orange Jacket (2014)                                                                                                                          |     46800.00
+         2015 | The Vatican Tapes (2015)                                                                                                                                     |   8000000.00
+         2015 | The Woman in Black 2: Angel of Death (2014)                                                                                                                  |  15000000.00
+         2015 | Toxin: 700 Days Left on Earth (2015)                                                                                                                         |     30000.00
+         2015 | Treehouse (2014)                                                                                                                                             |   3250000.00
+         2015 | Unsullied (2014)                                                                                                                                             |   1500000.00
+         2015 | Villmark 2 (2015)                                                                                                                                            |   1500000.00
+         2015 | When Animals Dream (2014)                                                                                                                                    |   3000000.00
+         2014 | 13 Sins (2014)                                                                                                                                               |   4000000.00
+         2014 | 3 Scream Queens (2014)                                                                                                                                       |   1000000.00
+         2014 | 3 Wicked Witches (2014)                                                                                                                                      |   1000000.00
+         2014 | 666: Kreepy Kerry (2014)                                                                                                                                     |   1000000.00
+         2014 | 90210 Shark Attack (2014)                                                                                                                                    |   1000000.00
+         2014 | A Haunted House 2 (2014)                                                                                                                                     |   4000000.00
+         2014 | Aftershock (2012)                                                                                                                                            |   2000000.00
+         2014 | Alléluia (2014)                                                                                                                                              |   3388320.00
+         2014 | As Above, So Below (2014)                                                                                                                                    |   5000000.00
+         2014 | Blood Shed (2014)                                                                                                                                            |   2000000.00
+         2014 | Bodom (2014)                                                                                                                                                 |       350.00
+         2014 | Charlie's Farm (2014)                                                                                                                                        |   3000000.00
+         2014 | Cheap Thrills (2013)                                                                                                                                         |    200000.00
+         2014 | Chung Cu Ma (2014)                                                                                                                                           |    500000.00
+         2014 | Code Red (2013)                                                                                                                                              |   3000000.00
+         2014 | Dabbe: Zehr-i Cin (2014)                                                                                                                                     |    700000.00
+         2014 | Dark Touch (2013)                                                                                                                                            |   3193564.14
+         2014 | Dead End (2014)                                                                                                                                              |   1000000.00
+         2014 | Dead Heart (2015)                                                                                                                                            |   1000000.00
+         2014 | Dead Still (2014)                                                                                                                                            |   2000000.00
+         2014 | Devil's Due (2014)                                                                                                                                           |   7000000.00
+         2014 | Devil's Tower (2014)                                                                                                                                         |   3000000.00
+         2014 | Dogman 2: The Wrath of the Litter (2014)                                                                                                                     |   1000000.00
+         2014 | Dracula Untold (2014)                                                                                                                                        |  70000000.00
+         2014 | Expiration (2011)                                                                                                                                            |     70000.00
+         2014 | Face of the Devil (2014)                                                                                                                                     |   3140000.00
+         2014 | Flight from Hell (2014)                                                                                                                                      |  10000000.00
+         2014 | Gallowwalkers (2012)                                                                                                                                         |  17000000.00
+         2014 | Golpo Holeo Shotti (2014)                                                                                                                                    |    200000.00
+         2014 | Hazard Jack (2014)                                                                                                                                           |   3000000.00
+         2014 | Honeymoon (2014)                                                                                                                                             |   1000000.00
+         2014 | Infected (2013)                                                                                                                                              |   2100000.00
+         2014 | Kingdom Come (2014)                                                                                                                                          |   3000000.00
+         2014 | La Petite Mort II (2014)                                                                                                                                     |    117000.00
+         2014 | Love in the Time of Monsters (2014)                                                                                                                          |    500000.00
+         2014 | Muska (2014)                                                                                                                                                 |    200000.00
+         2014 | Nosferatu vs. Father Pipecock & Sister Funk (2014)                                                                                                           |   2000000.00
+         2014 | Oculus (2013)                                                                                                                                                |   5000000.00
+         2014 | Ouija (2014)                                                                                                                                                 |   5000000.00
+         2014 | Paranormal Activity: The Marked Ones (2014)                                                                                                                  |   5000000.00
+         2014 | Prisoners of the Sun (2013)                                                                                                                                  |  18000000.00
+         2014 | Reminiscence: The Beginning (2014)                                                                                                                           |    500000.00
+         2014 | Repentance (2013)                                                                                                                                            |   5000000.00
+         2014 | Scarewaves (2014)                                                                                                                                            |     70000.00
+         2014 | Scary Tales (2014)                                                                                                                                           |    200000.00
+         2014 | Scavenger Killers (2014)                                                                                                                                     |   1000000.00
+         2014 | Shame the Devil (2013)                                                                                                                                       |   3000000.00
+         2014 | Socialistický Zombi Mord (2014)                                                                                                                              |     23400.00
+         2014 | Something Wicked (2014)                                                                                                                                      |   3000000.00
+         2014 | Sonyeogoedam (2014)                                                                                                                                          |   2000000.00
+         2014 | Styria (2014)                                                                                                                                                |   3000000.00
+         2014 | The Appearing (2014)                                                                                                                                         |   1000000.00
+         2014 | The Babadook (2014)                                                                                                                                          |   2000000.00
+         2014 | The Blue Elephant (2014)                                                                                                                                     |   3500000.00
+         2014 | The Control Group (2014)                                                                                                                                     |   1000000.00
+         2014 | The Damned (2013)                                                                                                                                            |   3000000.00
+         2014 | The Den (2013)                                                                                                                                               |    500000.00
+         2014 | The Devil's Hand (2014)                                                                                                                                      |   7000000.00
+         2014 | The Hybrid (2014)                                                                                                                                            |   2800000.00
+         2014 | The Last Showing (2014)                                                                                                                                      |   2000000.00
+         2014 | The Lost Episode (2012)                                                                                                                                      |   1000000.00
+         2014 | The Mummy Resurrected (2014)                                                                                                                                 |   3000000.00
+         2014 | The Sacrament (2013)                                                                                                                                         |   4000000.00
+         2014 | The Scopia Effect (2014)                                                                                                                                     |   1716000.00
+         2014 | The Summoning (2014)                                                                                                                                         |    200000.00
+         2014 | Therapy for a Vampire (2014)                                                                                                                                 |   7020000.00
+         2014 | Tusk (2014)                                                                                                                                                  |   3000000.00
+         2014 | Wolves (2014)                                                                                                                                                |  18000000.00
+         2014 | [REC] 4: Apocalypse (2014)                                                                                                                                   |   3510000.00
+         2013 | Aaah! Zombies!! (2007)                                                                                                                                       |   1000000.00
+         2013 | Aatma (2013)                                                                                                                                                 |   2000000.00
+         2013 | Absentia (2011)                                                                                                                                              |     70000.00
+         2013 | Airborne (2012)                                                                                                                                              |   1200000.00
+         2013 | Amy (2013)                                                                                                                                                   |   2000000.00
+         2013 | Apocalypse Z (2013)                                                                                                                                          |   1000000.00
+         2013 | Army of the Damned (2013)                                                                                                                                    |   1200000.00
+         2013 | Beneath (2013)                                                                                                                                               |   1000000.00
+         2013 | Blood Shot (2013)                                                                                                                                            |   3500000.00
+         2013 | Byzantium (2012)                                                                                                                                             |  10560000.00
+         2013 | Cementerio General (2013)                                                                                                                                    |    400000.00
+         2013 | Comedown (2012)                                                                                                                                              |   2000000.00
+         2013 | Dark Skies (2013)                                                                                                                                            |   3500000.00
+         2013 | Dracula: The Impaler (2013)                                                                                                                                  |    500000.00
+         2013 | Germ (2013)                                                                                                                                                  |    500000.00
+         2013 | Grave Secrets (2013)                                                                                                                                         |   1000000.00
+         2013 | Halley (2012)                                                                                                                                                |    500000.00
+         2013 | Hansel & Gretel: Warriors of Witchcraft (2013)                                                                                                               |   1000000.00
+         2013 | Holla II (2013)                                                                                                                                              |   1000000.00
+         2013 | Huff (2013)                                                                                                                                                  |    500000.00
+         2013 | Julia X (2011)                                                                                                                                               |   4000000.00
+         2013 | Killer Holiday (2013)                                                                                                                                        |   1000000.00
+         2013 | Lost Lake (2012)                                                                                                                                             |    500000.00
+         2013 | Maniac (2012)                                                                                                                                                |   6000000.00
+         2013 | Miss Christina (2013)                                                                                                                                        |   1287000.00
+         2013 | Nurse 3D (2013)                                                                                                                                              |  10000000.00
+         2013 | Only Lovers Left Alive (2013)                                                                                                                                |   7000000.00
+         2013 | Raptor Ranch (2013)                                                                                                                                          |   3500000.00
+         2013 | Rise of the Zombie (2013)                                                                                                                                    |    500000.00
+         2013 | Self Storage (2013)                                                                                                                                          |   1000000.00
+         2013 | Slaughter Creek (2011)                                                                                                                                       |   1000000.00
+         2013 | Solid State (2012)                                                                                                                                           |    300000.00
+         2013 | Spiders 3D (2013)                                                                                                                                            |   7000000.00
+         2013 | The Cloth (2013)                                                                                                                                             |   4000000.00
+         2013 | The Dead Matter (2010)                                                                                                                                       |   2000000.00
+         2013 | The Final (2010)                                                                                                                                             |   1000000.00
+         2013 | The Haunting in Connecticut 2: Ghosts of Georgia (2013)                                                                                                      |   9000000.00
+         2013 | The House at the End of Time (2013)                                                                                                                          |    300000.00
+         2013 | The Last Days (2013)                                                                                                                                         |   5850000.00
+         2013 | The Last Vampyre on Earth (2013)                                                                                                                             |   1000000.00
+         2013 | The Taking (2013)                                                                                                                                            |     13000.00
+         2013 | The Vatican Exorcisms (2013)                                                                                                                                 |   1100000.00
+         2013 | Truth or Dare (2013)                                                                                                                                         |    165000.00
+         2013 | Unlucky Charms (2013)                                                                                                                                        |    500000.00
+         2013 | World War Z (2013)                                                                                                                                           | 190000000.00
+         2013 | Wrath of the Crows (2013)                                                                                                                                    |    500000.00
+         2013 | You're Next (2011)                                                                                                                                           |   1000000.00
+         2013 | Zombie Hunter (2013)                                                                                                                                         |   1000000.00
+         2012 | 2: Voodoo Academy (2012)                                                                                                                                     |   1000000.00
+         2012 | ATM (2012)                                                                                                                                                   |   3000000.00
+         2012 | An American Ghost Story (2012)                                                                                                                               |     10000.00
+         2012 | Bad Blood (2012)                                                                                                                                             |    900000.00
+         2012 | Beneath the Darkness (2011)                                                                                                                                  |   7300000.00
+         2012 | Big Bad Bugs (2012)                                                                                                                                          |   1000000.00
+         2012 | BloodRayne: The Third Reich (2011)                                                                                                                           |  10000000.00
+         2012 | Butcher Boys (2012)                                                                                                                                          |   1500000.00
+         2012 | Chernobyl Diaries (2012)                                                                                                                                     |   1000000.00
+         2012 | Christmas with the Dead (2012)                                                                                                                               |   1500000.00
+         2012 | Cut/Print (2012)                                                                                                                                             |   1000000.00
+         2012 | Dark Shadows (2012)                                                                                                                                          | 150000000.00
+         2012 | Detention (2011)                                                                                                                                             |  10000000.00
+         2012 | Donner Pass (2011)                                                                                                                                           |    800000.00
+         2012 | Grabbers (2012)                                                                                                                                              |   5280000.00
+         2012 | Horrorween (2011)                                                                                                                                            |  10000000.00
+         2012 | House of Horrors: Gates of Hell (2012)                                                                                                                       |     10000.00
+         2012 | It's in the Blood (2012)                                                                                                                                     |   3000000.00
+         2012 | Kill Zombie! (2012)                                                                                                                                          |    585000.00
+         2012 | Lovely Molly (2011)                                                                                                                                          |   1000000.00
+         2012 | Nine Miles Down (2009)                                                                                                                                       |  22000000.00
+         2012 | No Tell Motel (2012)                                                                                                                                         |   3000000.00
+         2012 | Outpost: Black Sun (2012)                                                                                                                                    |   3000000.00
+         2012 | Paranormal Activity 4 (2012)                                                                                                                                 |   5000000.00
+         2012 | Piranha 3DD (2012)                                                                                                                                           |   5000000.00
+         2012 | Reclusion (2012)                                                                                                                                             |     10000.00
+         2012 | Red Lights (2012)                                                                                                                                            |  16380000.00
+         2012 | Rogue River (2012)                                                                                                                                           |   2000000.00
+         2012 | Saint Dracula 3D (2012)                                                                                                                                      |   5000000.00
+         2012 | Silent House (2011)                                                                                                                                          |   2000000.00
+         2012 | Sinister (2012)                                                                                                                                              |   3000000.00
+         2012 | Snow White: A Deadly Summer (2012)                                                                                                                           |   1000000.00
+         2012 | Specter (2012)                                                                                                                                               |   3000000.00
+         2012 | The Chrysalis (2012)                                                                                                                                         |   2000000.00
+         2012 | The Collection (2012)                                                                                                                                        |  10000000.00
+         2012 | The Devil Inside (2012)                                                                                                                                      |    750000.00
+         2012 | The Divide (2011)                                                                                                                                            |   3000000.00
+         2012 | The Flaying (2012)                                                                                                                                           |     10000.00
+         2012 | The House of the Devil (2009)                                                                                                                                |    900000.00
+         2012 | The Innkeepers (2011)                                                                                                                                        |    750000.00
+         2012 | The Reverend (2011)                                                                                                                                          |   1000000.00
+         2012 | The Summer of Massacre (2012)                                                                                                                                |    750000.00
+         2012 | The Tall Man (2012)                                                                                                                                          |  18200000.00
+         2012 | The Thompsons (2012)                                                                                                                                         |   3000000.00
+         2012 | The Tortured (2010)                                                                                                                                          |   8500000.00
+         2012 | The Watermen (2012)                                                                                                                                          |   1150000.00
+         2012 | Truth or Die (2012)                                                                                                                                          |   1000000.00
+         2012 | Twixt (2011)                                                                                                                                                 |   7000000.00
+         2012 | Vamperifica (2012)                                                                                                                                           |   1000000.00
+         2012 | War of the Dead (2011)                                                                                                                                       |   1170000.00
+         2012 | You're Nobody 'til Somebody Kills You (2012)                                                                                                                 |   1000000.00
+         2011 | 23:59 (2011)                                                                                                                                                 |    600000.00
+         2011 | 247°F (2011)                                                                                                                                                 |    650000.00
+         2011 | 51 (2011)                                                                                                                                                    |   1000000.00
+         2011 | Alien vs. Ninja (2010)                                                                                                                                       |    600000.00
+         2011 | Antfarm Dickhole (2011)                                                                                                                                      |      6000.00
+         2011 | Apollo 18 (2011)                                                                                                                                             |   5000000.00
+         2011 | Baby Shower (2011)                                                                                                                                           |    900000.00
+         2011 | Camp Hell (2010)                                                                                                                                             |   3000000.00
+         2011 | Claypot Curry Killers (2011)                                                                                                                                 |    300000.00
+         2011 | Coffin (2011)                                                                                                                                                |    600000.00
+         2011 | Crash Site (2011)                                                                                                                                            |   1000000.00
+         2011 | Creature (2011)                                                                                                                                              |   3000000.00
+         2011 | Deadball (2011)                                                                                                                                              |    600000.00
+         2011 | Entrei em Pânico ao Saber o que Vocês Fizeram na Sexta-feira 13 do Verão Passado Parte 2 - A Hora da Volta da Vingança dos Jogos Mortais de Halloween (2011) |      1500.00
+         2011 | Exit 33 (2011)                                                                                                                                               |   1000000.00
+         2011 | Forget Me Not (2009)                                                                                                                                         |   1300000.00
+         2011 | Gantz (2010)                                                                                                                                                 |  22000000.00
+         2011 | Gantz: Perfect Answer (2011)                                                                                                                                 |  22000000.00
+         2011 | Giallo (2009)                                                                                                                                                |  14000000.00
+         2011 | Helldriver (2010)                                                                                                                                            |    600000.00
+         2011 | Hellgate (2011)                                                                                                                                              |   5000000.00
+         2011 | Hidden 3D (2011)                                                                                                                                             |   8000000.00
+         2011 | Hobo with a Shotgun (2011)                                                                                                                                   |   3000000.00
+         2011 | Intruders (2011)                                                                                                                                             |  13000000.00
+         2011 | Jacob (2011)                                                                                                                                                 |    900000.00
+         2011 | Livid (2011)                                                                                                                                                 |   5000000.00
+         2011 | Make-Out with Violence (2008)                                                                                                                                |    150000.00
+         2011 | Maleficarum (2011)                                                                                                                                           |    105000.00
+         2011 | Mother's Day (2010)                                                                                                                                          |  11000000.00
+         2011 | Needle (2010)                                                                                                                                                |   3000000.00
+         2011 | Night of the Demons (2009)                                                                                                                                   |  10000000.00
+         2011 | Paranormal Activity 3 (2011)                                                                                                                                 |   5000000.00
+         2011 | Priest (2011)                                                                                                                                                |  60000000.00
+         2011 | Quarantine 2: Terminal (2011)                                                                                                                                |   4000000.00
+         2011 | Red State (2011)                                                                                                                                             |   4000000.00
+         2011 | Rehab (2011)                                                                                                                                                 |    150000.00
+         2011 | Sleep Tight (2011)                                                                                                                                           |   5000000.00
+         2011 | Stake Land (2010)                                                                                                                                            |    650000.00
+         2011 | State of Emergency (2011)                                                                                                                                    |   1300000.00
+         2011 | Super Hybrid (2010)                                                                                                                                          |  13000000.00
+         2011 | The Collapsed (2011)                                                                                                                                         |    150000.00
+         2011 | The Dark Lurking (2009)                                                                                                                                      |   1000000.00
+         2011 | The Depraved (2011)                                                                                                                                          |   3000000.00
+         2011 | The Ideal (2011)                                                                                                                                             |   1000000.00
+         2011 | The Life and Death of a Porno Gang (2009)                                                                                                                    |    163800.00
+         2011 | The Passing (2011)                                                                                                                                           |   1000000.00
+         2011 | The Silent House (2010)                                                                                                                                      |      6000.00
+         2011 | The Squad (2011)                                                                                                                                             |   1300000.00
+         2011 | The Traveler (2010)                                                                                                                                          |   4000000.00
+         2011 | The Violent Kind (2010)                                                                                                                                      |   1000000.00
+         2011 | The Ward (2010)                                                                                                                                              |  10000000.00
+         2011 | Vanishing on 7th Street (2010)                                                                                                                               |  10000000.00
+         2010 | After.Life (2009)                                                                                                                                            |   4500000.00
+         2010 | Bear (2010)                                                                                                                                                  |  10000000.00
+         2010 | Bedevilled (2010)                                                                                                                                            |    700000.00
+         2010 | Chain Letter (2009)                                                                                                                                          |   5000000.00
+         2010 | Christopher Roth (2010)                                                                                                                                      |   2749500.00
+         2010 | Darkening Sky (2010)                                                                                                                                         |    200000.00
+         2010 | Deadline (2009)                                                                                                                                              |   1800000.00
+         2010 | Death Bed: The Bed That Eats (1977)                                                                                                                          |     30000.00
+         2010 | Devil (2010)                                                                                                                                                 |  10000000.00
+         2010 | Don't Fall Asleep (2010)                                                                                                                                     |    200000.00
+         2010 | Eat Me! (2010)                                                                                                                                               |      8000.00
+         2010 | Exorcismus (2010)                                                                                                                                            |   1800000.00
+         2010 | Grey Skies (2010)                                                                                                                                            |   1500000.00
+         2010 | Hatchet (2006)                                                                                                                                               |   1500000.00
+         2010 | Hatchet II (2010)                                                                                                                                            |    800000.00
+         2010 | Heartless (2009)                                                                                                                                             |   5000000.00
+         2010 | Hisss (2010)                                                                                                                                                 |   6000000.00
+         2010 | In Their Sleep (2010)                                                                                                                                        |   1638000.00
+         2010 | It's a Wonderful Afterlife (2010)                                                                                                                            |  10000000.00
+         2010 | Junkyard Dog (2010)                                                                                                                                          |   1500000.00
+         2010 | Metamorphosis (2007)                                                                                                                                         |   6000000.00
+         2010 | Mr. Hush (2010)                                                                                                                                              |    200000.00
+         2010 | Perfect Life (2010)                                                                                                                                          |  10000000.00
+         2010 | President's Day (2010)                                                                                                                                       |      5000.00
+         2010 | Psych:9 (2010)                                                                                                                                               |   5000000.00
+         2010 | Rare Exports: A Christmas Tale (2010)                                                                                                                        |   2279160.00
+         2010 | Stag Night (2008)                                                                                                                                            |   1500000.00
+         2010 | The Black Waters of Echo's Pond (2009)                                                                                                                       |   5000000.00
+         2010 | The Child's Eye (2010)                                                                                                                                       |   4500000.00
+         2010 | The Final Storm (2010)                                                                                                                                       |   5000000.00
+         2010 | The Last Exorcism (2010)                                                                                                                                     |   1800000.00
+         2010 | The Maze (2010)                                                                                                                                              |    200000.00
+         2010 | The New Daughter (2009)                                                                                                                                      |  15000000.00
+         2010 | The Unforgiving (2010)                                                                                                                                       |      5000.00
+         2010 | The Valdemar Legacy (2010)                                                                                                                                   |   7605000.00
+         2010 | The Wolfman (2010)                                                                                                                                           | 150000000.00
+         2010 | We Are the Night (2010)                                                                                                                                      |   7605000.00
+         2010 | Zombiechrist (2010)                                                                                                                                          |      5000.00
+         2009 | Antichrist (2009)                                                                                                                                            |  11000000.00
+         2009 | Autopsy (2008)                                                                                                                                               |   2000000.00
+         2009 | Blood: The Last Vampire (2009)                                                                                                                               |  30000000.00
+         2009 | Book of Blood (2009)                                                                                                                                         |   6000000.00
+         2009 | Cabin Fever 2: Spring Fever (2009)                                                                                                                           |  10000000.00
+         2009 | Crush (2009)                                                                                                                                                 |   1500000.00
+         2009 | Dead Snow (2009)                                                                                                                                             |    800000.00
+         2009 | Descendents (2008)                                                                                                                                           |     60000.00
+         2009 | Doghouse (2009)                                                                                                                                              |   4000000.00
+         2009 | Don't Look Back (2009)                                                                                                                                       |  15210000.00
+         2009 | Drag Me to Hell (2009)                                                                                                                                       |  30000000.00
+         2009 | Drifter: Henry Lee Lucas (2009)                                                                                                                              |   1500000.00
+         2009 | Gnaw (2008)                                                                                                                                                  |   1500000.00
+         2009 | Grace (2009)                                                                                                                                                 |   5000000.00
+         2009 | Homecoming (2009)                                                                                                                                            |   1500000.00
+         2009 | Imago mortis (2009)                                                                                                                                          |   3700000.00
+         2009 | It's Alive (2008)                                                                                                                                            |  10000000.00
+         2009 | Kill Theory (2009)                                                                                                                                           |   6000000.00
+         2009 | Kinatay (2009)                                                                                                                                               |    800000.00
+         2009 | Love, Sex & Drugs (2009)                                                                                                                                     |     60000.00
+         2009 | Mutants (2008)                                                                                                                                               |   4000000.00
+         2009 | No Man's Land: The Rise of Reeker (2008)                                                                                                                     |   2000000.00
+         2009 | Pontypool (2008)                                                                                                                                             |   1500000.00
+         2009 | Raaz: The Mystery Continues (2009)                                                                                                                           |   2300000.00
+         2009 | Red Hook (2009)                                                                                                                                              |   1500000.00
+         2009 | Reykjavik Whale Watching Massacre (2009)                                                                                                                     |   4000000.00
+         2009 | Saw VI (2009)                                                                                                                                                |  11000000.00
+         2009 | Slaughter (2009)                                                                                                                                             |   4000000.00
+         2009 | Tell Tale (2009)                                                                                                                                             |  12000000.00
+         2009 | Temptation (2009)                                                                                                                                            |    800000.00
+         2009 | The Collector (2009)                                                                                                                                         |   6000000.00
+         2009 | The Countess (2009)                                                                                                                                          |   8500000.00
+         2009 | The Devil's Tomb (2009)                                                                                                                                      |  10000000.00
+         2009 | The Echo (2008)                                                                                                                                              |   5000000.00
+         2009 | The Final Destination (2009)                                                                                                                                 |  40000000.00
+         2009 | The House That Jack Built (2009)                                                                                                                             |   1500000.00
+         2009 | The Seamstress (2009)                                                                                                                                        |   1500000.00
+         2009 | Thirst (2009)                                                                                                                                                |   5000000.00
+         2009 | Vampiro (2009)                                                                                                                                               |    800000.00
+         2009 | Walled In (2009)                                                                                                                                             |  10000000.00
+         2009 | Yulenka (2009)                                                                                                                                               |   5000000.00
+         2009 | [Rec] 2 (2009)                                                                                                                                               |   5600000.00
+         2008 | 100 Feet (2008)                                                                                                                                              |  10000000.00
+         2008 | A Darker Reality (2008)                                                                                                                                      |    500000.00
+         2008 | American Zombie (2007)                                                                                                                                       |   1000000.00
+         2008 | Amusement (2008)                                                                                                                                             |   6000000.00
+         2008 | Behind the Wall (2008)                                                                                                                                       |   1200000.00
+         2008 | Brotherhood of Blood (2007)                                                                                                                                  |    500000.00
+         2008 | Bryan Loves You (2008)                                                                                                                                       |   1000000.00
+         2008 | Citizen Toxie: The Toxic Avenger IV (2000)                                                                                                                   |    500000.00
+         2008 | Dark Floors (2008)                                                                                                                                           |   5031000.00
+         2008 | Dark Reel (2008)                                                                                                                                             |   1000000.00
+         2008 | Dead Country (2008)                                                                                                                                          |   1000000.00
+         2008 | Dead in 3 Days 2 (2008)                                                                                                                                      |   2340000.00
+         2008 | Dimples (2008)                                                                                                                                               |    500000.00
+         2008 | Don't Look in the Cellar (2008)                                                                                                                              |   1200000.00
+         2008 | Dorothy Mills (2008)                                                                                                                                         |    500000.00
+         2008 | Dying God (2008)                                                                                                                                             |    500000.00
+         2008 | Evilution (2008)                                                                                                                                             |   1200000.00
+         2008 | Frat House Massacre (2008)                                                                                                                                   |   1000000.00
+         2008 | From a Place of Darkness (2008)                                                                                                                              |    500000.00
+         2008 | Funny Games (2007)                                                                                                                                           |  15000000.00
+         2008 | Heatstroke (2008)                                                                                                                                            |   2500000.00
+         2008 | House (2008)                                                                                                                                                 |   2500000.00
+         2008 | House of Usher (2008)                                                                                                                                        |   1000000.00
+         2008 | KM 31: Kilometre 31 (2006)                                                                                                                                   |   2340000.00
+         2008 | Knock Knock (2007)                                                                                                                                           |   1200000.00
+         2008 | Lake Dead (2007)                                                                                                                                             |   2500000.00
+         2008 | Left Bank (2008)                                                                                                                                             |    702000.00
+         2008 | Let the Right One In (2008)                                                                                                                                  |   4000000.00
+         2008 | Little Red Devil (2008)                                                                                                                                      |   1000000.00
+         2008 | Martyrs (2008)                                                                                                                                               |   6500000.00
+         2008 | Missing (2008)                                                                                                                                               |   8000000.00
+         2008 | Pathology (2008)                                                                                                                                             |   8000000.00
+         2008 | Pig Hunt (2008)                                                                                                                                              |   6000000.00
+         2008 | Repo! The Genetic Opera (2008)                                                                                                                               |   8500000.00
+         2008 | Rule of 3 (2008)                                                                                                                                             |    500000.00
+         2008 | Sea of Dust (2008)                                                                                                                                           |   1000000.00
+         2008 | Semum (2008)                                                                                                                                                 |   1200000.00
+         2008 | Shutter (2008)                                                                                                                                               |   8000000.00
+         2008 | Surveillance (2008)                                                                                                                                          |   3500000.00
+         2008 | Takut: Faces of Fear (2008)                                                                                                                                  |   1000000.00
+         2008 | Text (2008)                                                                                                                                                  |    500000.00
+         2008 | The Guard Post (2008)                                                                                                                                        |   1000000.00
+         2008 | The Legend of Bloody Mary (2008)                                                                                                                             |   1000000.00
+         2008 | The Midnight Meat Train (2008)                                                                                                                               |  15000000.00
+         2008 | The Mummy: Tomb of the Dragon Emperor (2008)                                                                                                                 | 145000000.00
+         2008 | The Objective (2008)                                                                                                                                         |   4000000.00
+         2008 | The Ruins (2008)                                                                                                                                             |   8000000.00
+         2008 | The Sickhouse (2008)                                                                                                                                         |   4000000.00
+         2008 | The Strangers (2008)                                                                                                                                         |  10000000.00
+         2008 | The Thirst: Blood War (2008)                                                                                                                                 |   1000000.00
+         2008 | Timber Falls (2007)                                                                                                                                          |   2600000.00
+         2008 | Timecrimes (2007)                                                                                                                                            |   2600000.00
+         2008 | Trailer Park of Terror (2008)                                                                                                                                |   3250000.00
+         2007 | Afghan Knights (2007)                                                                                                                                        |   1500000.00
+         2007 | Altered (2006)                                                                                                                                               |   8000000.00
+         2007 | Born (2007)                                                                                                                                                  |   5000000.00
+         2007 | Bug (2006)                                                                                                                                                   |   4000000.00
+         2007 | Dark Mirror (2007)                                                                                                                                           |   1000000.00
+         2007 | Dead Tone (2007)                                                                                                                                             |   3000000.00
+         2007 | Feast (2005)                                                                                                                                                 |   3200000.00
+         2007 | Fido (2006)                                                                                                                                                  |   8000000.00
+         2007 | Hack! (2007)                                                                                                                                                 |   2000000.00
+         2007 | Hansel and Gretel (2007)                                                                                                                                     |   4000000.00
+         2007 | Hasta el viento tiene miedo (2007)                                                                                                                           |   1000000.00
+         2007 | Hostel: Part II (2007)                                                                                                                                       |  10000000.00
+         2007 | I Am Legend (2007)                                                                                                                                           | 150000000.00
+         2007 | In a Dark Place (2006)                                                                                                                                       |   5000000.00
+         2007 | Inside (2007)                                                                                                                                                |   3000000.00
+         2007 | Kaidan (2007)                                                                                                                                                |   5000000.00
+         2007 | Kutsal Damacana (2007)                                                                                                                                       |   2000000.00
+         2007 | Moscow Zero (2006)                                                                                                                                           |  10000000.00
+         2007 | Musallat (2007)                                                                                                                                              |   1500000.00
+         2007 | My Name Is Bruce (2007)                                                                                                                                      |   1500000.00
+         2007 | P2 (2007)                                                                                                                                                    |   8000000.00
+         2007 | Perfect Creature (2006)                                                                                                                                      |  11000000.00
+         2007 | Pipeline (2007)                                                                                                                                              |  11000000.00
+         2007 | Saw IV (2007)                                                                                                                                                |  10000000.00
+         2007 | Shadow Puppets (2007)                                                                                                                                        |   2000000.00
+         2007 | Suffering Man's Charity (2007)                                                                                                                               |   3000000.00
+         2007 | The Backwoods (2006)                                                                                                                                         |   4212000.00
+         2007 | The Counting House (2007)                                                                                                                                    |   1500000.00
+         2007 | The Dead One (2007)                                                                                                                                          |   1000000.00
+         2007 | The Hitcher (2007)                                                                                                                                           |  10000000.00
+         2007 | The Jinn (2007)                                                                                                                                              |    300000.00
+         2007 | The Killing Floor (2007)                                                                                                                                     |   1000000.00
+         2007 | The Marsh (2006)                                                                                                                                             |   9000000.00
+         2007 | The Rage (2007)                                                                                                                                              |   2000000.00
+         2007 | The Tattooist (2007)                                                                                                                                         |   3000000.00
+         2007 | The Thirst (2006)                                                                                                                                            |   2000000.00
+         2007 | Unholy (2007)                                                                                                                                                |   1000000.00
+         2007 | Whisper (2007)                                                                                                                                               |  12000000.00
+         2007 | White Noise 2: The Light (2007)                                                                                                                              |  10000000.00
+         2006 | After... (2006)                                                                                                                                              |   1000000.00
+         2006 | Bloody Reunion (2006)                                                                                                                                        |   2500000.00
+         2006 | Dead & Breakfast (2004)                                                                                                                                      |    500000.00
+         2006 | Dead in 3 Days (2006)                                                                                                                                        |   2340000.00
+         2006 | Dood eind (2006)                                                                                                                                             |   1170000.00
+         2006 | H6: Diario de un asesino (2005)                                                                                                                              |   1404000.00
+         2006 | Horrors of War (2006)                                                                                                                                        |    300000.00
+         2006 | Hui Buh (2006)                                                                                                                                               |  11700000.00
+         2006 | Isolation (2005)                                                                                                                                             |   3828000.00
+         2006 | Like Minds (2006)                                                                                                                                            |   8000000.00
+         2006 | Loft (2005)                                                                                                                                                  |   2500000.00
+         2006 | Minotaur (2006)                                                                                                                                              |   7000000.00
+         2006 | Open Water 2: Adrift (2006)                                                                                                                                  |   1404000.00
+         2006 | Return of the Living Dead: Necropolis (2005)                                                                                                                 |   6000000.00
+         2006 | Ritual (2002)                                                                                                                                                |  10000000.00
+         2006 | Room 6 (2006)                                                                                                                                                |   1000000.00
+         2006 | Satan's Playground (2006)                                                                                                                                    |   1000000.00
+         2006 | Saw III (2006)                                                                                                                                               |  10000000.00
+         2006 | See No Evil (2006)                                                                                                                                           |   8000000.00
+         2006 | Seed (2006)                                                                                                                                                  |  10000000.00
+         2006 | Sheitan (2006)                                                                                                                                               |   3159000.00
+         2006 | Sheitan Warrior (2006)                                                                                                                                       |    300000.00
+         2006 | Silent Hill (2006)                                                                                                                                           |  50000000.00
+         2006 | Tequila Body Shots (1999)                                                                                                                                    |   1700000.00
+         2006 | The Choke (2006)                                                                                                                                             |   1000000.00
+         2006 | The Hunt (2006)                                                                                                                                              |    500000.00
+         2006 | The Pumpkin Karver (2006)                                                                                                                                    |   1000000.00
+         2006 | The Zodiac (2005)                                                                                                                                            |   1000000.00
+         2006 | Tideland (2005)                                                                                                                                              |  19300000.00
+         2006 | Turistas (2006)                                                                                                                                              |  10000000.00
+         2005 | Andrea: The Revenge of the Spirit (2005)                                                                                                                     |    225000.00
+         2005 | Antarctic Journal (2005)                                                                                                                                     |   6500000.00
+         2005 | Blood Dolls (1999)                                                                                                                                           |   1000000.00
+         2005 | Boy Eats Girl (2005)                                                                                                                                         |   5000000.00
+         2005 | Chaos (2005)                                                                                                                                                 |   1000000.00
+         2005 | Cheap (2005)                                                                                                                                                 |     10000.00
+         2005 | Constantine (2005)                                                                                                                                           | 100000000.00
+         2005 | Cruel World (2005)                                                                                                                                           |   2000000.00
+         2005 | Cry Wolf (2005)                                                                                                                                              |   1000000.00
+         2005 | Curandero (2005)                                                                                                                                             |   3000000.00
+         2005 | Die Zombiejäger (2005)                                                                                                                                       |      5148.00
+         2005 | Fragile (2005)                                                                                                                                               |   8190000.00
+         2005 | Gruesome School Trip (2005)                                                                                                                                  |   2681693.82
+         2005 | Man-Thing (2005)                                                                                                                                             |   7500000.00
+         2005 | Monster Man (2003)                                                                                                                                           |   4000000.00
+         2005 | Noroi: The Curse (2005)                                                                                                                                      |   2000000.00
+         2005 | Restless Souls (2005)                                                                                                                                        |   1500000.00
+         2005 | Riding the Bullet (2004)                                                                                                                                     |   5000000.00
+         2005 | Saw II (2005)                                                                                                                                                |   4000000.00
+         2005 | Shallow Ground (2004)                                                                                                                                        |     72000.00
+         2005 | The Picture of Dorian Gray (2005)                                                                                                                            |   3000000.00
+         2005 | Thralls (2005)                                                                                                                                               |   1000000.00
+         2005 | White Skin (2004)                                                                                                                                            |   1000000.00
+         2005 | Wolf Creek (2005)                                                                                                                                            |   1000000.00
+         2004 | Blade: Trinity (2004)                                                                                                                                        |  65000000.00
+         2004 | Death Valley: The Revenge of Bloody Bill (2004)                                                                                                              |    750000.00
+         2004 | Decoys (2004)                                                                                                                                                |   5000000.00
+         2004 | Evil Eyes (2004)                                                                                                                                             |   1000000.00
+         2004 | Evilenko (2004)                                                                                                                                              |   9700000.00
+         2004 | Exorcism (2003)                                                                                                                                              |   1000000.00
+         2004 | Ghost House (2004)                                                                                                                                           |   3700000.00
+         2004 | Jennifer's Shadow (2004)                                                                                                                                     |   1000000.00
+         2004 | Love Object (2003)                                                                                                                                           |   1000000.00
+         2004 | Night of the Living Dorks (2004)                                                                                                                             |   4095000.00
+         2004 | Okul (2004)                                                                                                                                                  |   1000000.00
+         2004 | Rhinoceros Eyes (2003)                                                                                                                                       |   1000000.00
+         2004 | Romasanta: The Werewolf Hunt (2004)                                                                                                                          |   5265000.00
+         2004 | Shadows of the Dead (2004)                                                                                                                                   |    750000.00
+         2004 | The Bone Snatcher (2003)                                                                                                                                     |   6000000.00
+         2004 | The Eye 2 (2004)                                                                                                                                             |   2300000.00
+         2004 | The Locker (2004)                                                                                                                                            |   1000000.00
+         2004 | The Return of James Battle (2004)                                                                                                                            |  16380000.00
+         2004 | Vampires: The Turning (2005)                                                                                                                                 |   5000000.00
+         2003 | Acacia (2003)                                                                                                                                                |   2200000.00
+         2003 | Beyond Re-Animator (2003)                                                                                                                                    |   3000000.00
+         2003 | Grimm (2003)                                                                                                                                                 |   3700000.00
+         2003 | Ju-on: The Grudge (2002)                                                                                                                                     |   3500000.00
+         2003 | Maléfique (2002)                                                                                                                                             |   1170000.00
+         2003 | May (2002)                                                                                                                                                   |    500000.00
+         2003 | Octane (2003)                                                                                                                                                |  11500000.00
+         2003 | The Gathering (2002)                                                                                                                                         |  18000000.00
+         2003 | The Haunted Mansion (2003)                                                                                                                                   |  90000000.00
+         2002 | .com for Murder (2002)                                                                                                                                       |   5000000.00
+         2002 | Alias (2002)                                                                                                                                                 |   1500000.00
+         2002 | Blade II (2002)                                                                                                                                              |  54000000.00
+         2002 | Elvira's Haunted Hills (2001)                                                                                                                                |   1500000.00
+         2002 | Engine Trouble (2002)                                                                                                                                        |    117000.00
+         2002 | Eye See You (2002)                                                                                                                                           |  55000000.00
+         2002 | Ichi the Killer (2001)                                                                                                                                       |   1400000.00
+         2002 | My Little Eye (2002)                                                                                                                                         |   2640000.00
+         2002 | Second Name (2002)                                                                                                                                           |   2925000.00
+         2002 | The Happiness of the Katakuris (2001)                                                                                                                        |   1500000.00
+         2002 | Wishcraft (2002)                                                                                                                                             |   5000000.00
+         2002 | Yee do hung gaan (2002)                                                                                                                                      |   4000000.00
+         2001 | Aks (2001)                                                                                                                                                   |   2200000.00
+         2001 | Dagon (2001)                                                                                                                                                 |   4914000.00
+         2001 | Demonium (2001)                                                                                                                                              |   2200000.00
+         2001 | Ginger Snaps (2000)                                                                                                                                          |   5000000.00
+         2001 | Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001)                                                                                     |   9400000.00
+         2001 | Killer Instinct (2001)                                                                                                                                       |   3000000.00
+         2001 | Presence of Mind (1999)                                                                                                                                      |   3000000.00
+         2001 | Sanctimony (2000)                                                                                                                                            |   3000000.00
+         2001 | Sleepless (2001)                                                                                                                                             |   4000000.00
+         2001 | The Breed (2001)                                                                                                                                             |   4000000.00
+         2001 | The Forsaken (2001)                                                                                                                                          |  15000000.00
+         2001 | The Shaft (2001)                                                                                                                                             |  15000000.00
+         2001 | The St. Francisville Experiment (2000)                                                                                                                       |    250000.00
+         2001 | Thir13en Ghosts (2001)                                                                                                                                       |  42000000.00
+         2001 | Truth About Demons (2000)                                                                                                                                    |    500000.00
+         2001 | Tuno negro (2001)                                                                                                                                            |   3000000.00
+         2000 | Bruiser (2000)                                                                                                                                               |   5000000.00
+         2000 | Cherry Falls (2000)                                                                                                                                          |  14000000.00
+         2000 | Godzilla vs. Megaguirus (2000)                                                                                                                               |   8300000.00
+         2000 | Mothman (2000)                                                                                                                                               |     60000.00
+         2000 | Paranoid (2000)                                                                                                                                              |   4000000.00
+         2000 | Spiders (2000)                                                                                                                                               |   2000000.00
+         2000 | The Spreading Ground (2000)                                                                                                                                  |   4000000.00
+         2000 | Urban Legends: Final Cut (2000)                                                                                                                              |  14000000.00
+         2000 | What Lies Beneath (2000)                                                                                                                                     | 100000000.00
+         1999 | Beowulf (1999)                                                                                                                                               |   3500000.00
+         1999 | Cold Hearts (1999)                                                                                                                                           |    900000.00
+         1999 | End of Days (1999)                                                                                                                                           | 100000000.00
+         1999 | Resurrection (1999)                                                                                                                                          |  10000000.00
+         1999 | Shrieker (1998)                                                                                                                                              |    300000.00
+         1999 | Sleepy Hollow (1999)                                                                                                                                         | 100000000.00
+         1999 | Tale of the Mummy (1998)                                                                                                                                     |   8000000.00
+         1999 | The Nameless (1999)                                                                                                                                          |   1053000.00
+         1998 | Angel of the Night (1998)                                                                                                                                    |    700000.00
+         1998 | Beloved (1998)                                                                                                                                               |  80000000.00
+         1998 | Bug Buster (1998)                                                                                                                                            |   8500000.00
+         1998 | Carnival of Souls (1998)                                                                                                                                     |   2000000.00
+         1998 | Darklands (1996)                                                                                                                                             |    750000.00
+         1998 | Lady of the Lake (1998)                                                                                                                                      |     60000.00
+         1998 | Legend of the Mummy (1998)                                                                                                                                   |   2000000.00
+         1998 | Pi (1998)                                                                                                                                                    |     60000.00
+         1998 | Rasen (1998)                                                                                                                                                 |   2900000.00
+         1998 | Sacred Bodies (1998)                                                                                                                                         |   2900000.00
+         1998 | Sphere (1998)                                                                                                                                                |  80000000.00
+         1998 | The Minion (1998)                                                                                                                                            |   3000000.00
+         1998 | The Phantom of the Opera (1998)                                                                                                                              |  10000000.00
+         1997 | Alien: Resurrection (1997)                                                                                                                                   |  75000000.00
+         1997 | Bloodletting (1997)                                                                                                                                          |     10000.00
+         1997 | Dance with the Devil (1997)                                                                                                                                  |   4914000.00
+         1997 | The Eighteenth Angel (1997)                                                                                                                                  |  25000000.00
+         1997 | The Wax Mask (1997)                                                                                                                                          |   3000000.00
+         1996 | Cemetery Man (1994)                                                                                                                                          |   4000000.00
+         1996 | Hellraiser: Bloodline (1996)                                                                                                                                 |   4000000.00
+         1996 | Killer Tongue (1996)                                                                                                                                         |   4000000.00
+         1996 | Mary Reilly (1996)                                                                                                                                           |  47000000.00
+         1996 | Night of the Scarecrow (1995)                                                                                                                                |   2000000.00
+         1996 | Serpent's Lair (1995)                                                                                                                                        |   4000000.00
+         1996 | The Grave (1996)                                                                                                                                             |   4000000.00
+         1996 | The Stendhal Syndrome (1996)                                                                                                                                 |   3800000.00
+         1996 | They Bite (1996)                                                                                                                                             |    130000.00
+         1995 | Creep (1995)                                                                                                                                                 |    100000.00
+         1995 | Godzilla vs. Destoroyah (1995)                                                                                                                               |  10000000.00
+         1995 | Species (1995)                                                                                                                                               |  35000000.00
+         1995 | Witch Academy (1995)                                                                                                                                         |    140000.00
+         1994 | Cronos (1993)                                                                                                                                                |   2000000.00
+         1994 | Giorgino (1994)                                                                                                                                              |  14040000.00
+         1994 | Leprechaun 2 (1994)                                                                                                                                          |   2000000.00
+         1994 | Mosquito (1994)                                                                                                                                              |    200000.00
+         1994 | Necronomicon: Book of Dead (1993)                                                                                                                            |   4000000.00
+         1994 | Phantasm III: Lord of the Dead (1994)                                                                                                                        |   2500000.00
+         1994 | Return of the Living Dead III (1993)                                                                                                                         |   2000000.00
+         1994 | The Paper Boy (1994)                                                                                                                                         |   2000000.00
+         1994 | Ticks (1993)                                                                                                                                                 |   2000000.00
+         1994 | Wolf (1994)                                                                                                                                                  |  70000000.00
+         1993 | Carnosaur (1993)                                                                                                                                             |   1000000.00
+         1993 | Dead Alive (1992)                                                                                                                                            |   3000000.00
+         1993 | Doppelganger (1993)                                                                                                                                          |   3000000.00
+         1993 | Dust Devil (1992)                                                                                                                                            |   5676000.00
+         1993 | Jason Goes to Hell: The Final Friday (1993)                                                                                                                  |   3000000.00
+         1993 | Man's Best Friend (1993)                                                                                                                                     |   6000000.00
+         1993 | Soultaker (1990)                                                                                                                                             |    242000.00
+         1993 | Tale of a Vampire (1992)                                                                                                                                     |   1000000.00
+         1993 | The Good Son (1993)                                                                                                                                          |  17000000.00
+         1993 | The Resurrected (1991)                                                                                                                                       |   6000000.00
+         1993 | The Unnamable II: The Statement of Randolph Carter (1992)                                                                                                    |   1000000.00
+         1993 | Trauma (1993)                                                                                                                                                |   7000000.00
+         1993 | Warlock: The Armageddon (1993)                                                                                                                               |   3000000.00
+         1992 | Death Becomes Her (1992)                                                                                                                                     |  55000000.00
+         1992 | Revenge of Billy the Kid (1992)                                                                                                                              |    158400.00
+         1992 | The Refrigerator (1991)                                                                                                                                      |    500000.00
+         1992 | Waxwork II: Lost in Time (1992)                                                                                                                              |   3500000.00
+         1991 | Alligator II: The Mutation (1991)                                                                                                                            |   3000000.00
+         1991 | Bloodsucking Pharaohs in Pittsburgh (1991)                                                                                                                   |    250000.00
+         1991 | Child's Play 3 (1991)                                                                                                                                        |  13000000.00
+         1991 | Killer Nerd (1991)                                                                                                                                           |     12000.00
+         1991 | Poison (1991)                                                                                                                                                |    250000.00
+         1991 | Scarecrows (1988)                                                                                                                                            |    425000.00
+         1991 | Sundown: The Vampire in Retreat (1989)                                                                                                                       |   3000000.00
+         1991 | The Borrower (1991)                                                                                                                                          |   2000000.00
+         1991 | The Devil's Daughter (1991)                                                                                                                                  |   2000000.00
+         1991 | The Pit and the Pendulum (1991)                                                                                                                              |   2000000.00
+         1990 | A Cat in the Brain (1990)                                                                                                                                    |    100000.00
+         1990 | Brain Dead (1990)                                                                                                                                            |   2000000.00
+         1990 | Bride of Re-Animator (1989)                                                                                                                                  |   2000000.00
+         1990 | Gremlins 2: The New Batch (1990)                                                                                                                             |  50000000.00
+         1990 | Maniac Cop 2 (1990)                                                                                                                                          |   4000000.00
+         1990 | The Ambulance (1990)                                                                                                                                         |   4000000.00
+         1990 | The Rift (1990)                                                                                                                                              |   1300000.00
+         1990 | Witchtrap (1989)                                                                                                                                             |    420000.00
+         1989 | After Midnight (1989)                                                                                                                                        |   3000000.00
+         1989 | Communion (1989)                                                                                                                                             |   5000000.00
+         1989 | Death House (1987)                                                                                                                                           |   1500000.00
+         1989 | Evil Spawn (1987)                                                                                                                                            |     30000.00
+         1989 | Food of the Gods II (1989)                                                                                                                                   |   3500000.00
+         1989 | Godzilla vs. Biollante (1989)                                                                                                                                |   5000000.00
+         1989 | Halloween 5 (1989)                                                                                                                                           |   3000000.00
+         1989 | Leviathan (1989)                                                                                                                                             |  25000000.00
+         1989 | Parents (1989)                                                                                                                                               |   3000000.00
+         1989 | Phantom of the Mall: Eric's Revenge (1989)                                                                                                                   |   3000000.00
+         1989 | Pumpkinhead (1988)                                                                                                                                           |   3500000.00
+         1989 | Shocker (1989)                                                                                                                                               |   5000000.00
+         1989 | Stepfather II (1989)                                                                                                                                         |   1500000.00
+         1989 | The Chair (1988)                                                                                                                                             |   3000000.00
+         1989 | The Church (1989)                                                                                                                                            |   3500000.00
+         1989 | The Horror Show (1989)                                                                                                                                       |   3000000.00
+         1989 | Troma's War (1988)                                                                                                                                           |   3000000.00
+         1989 | Violent Shit (1989)                                                                                                                                          |      2000.00
+         1988 | Curse of the Queerwolf (1988)                                                                                                                                |     10000.00
+         1988 | Dead Heat (1988)                                                                                                                                             |   5000000.00
+         1988 | Dream Demon (1988)                                                                                                                                           |   3960000.00
+         1988 | Halloween 4: The Return of Michael Myers (1988)                                                                                                              |   5000000.00
+         1988 | Near Dark (1987)                                                                                                                                             |   5000000.00
+         1988 | Rock 'n' Roll Nightmare (1987)                                                                                                                               |     53000.00
+         1988 | The Blob (1988)                                                                                                                                              |  19000000.00
+         1988 | The Newlydeads (1988)                                                                                                                                        |    250000.00
+         1988 | The Unnamable (1988)                                                                                                                                         |    350000.00
+         1988 | Zombie Nightmare (1987)                                                                                                                                      |    180000.00
+         1987 | Chillers (1987)                                                                                                                                              |    250000.00
+         1987 | Hellraiser (1987)                                                                                                                                            |   1000000.00
+         1987 | Jaws: The Revenge (1987)                                                                                                                                     |  23000000.00
+         1987 | Prison (1987)                                                                                                                                                |   1300000.00
+         1987 | Scared Stiff (1987)                                                                                                                                          |   1300000.00
+         1987 | StageFright (1987)                                                                                                                                           |   1000000.00
+         1987 | The Outing (1987)                                                                                                                                            |   2000000.00
+         1987 | Truth or Dare?: A Critical Madness (1986)                                                                                                                    |    200000.00
+         1987 | Witchboard (1986)                                                                                                                                            |   2000000.00
+         1986 | Chopping Mall (1986)                                                                                                                                         |    800000.00
+         1986 | Crimewave (1985)                                                                                                                                             |   3000000.00
+         1986 | House (1985)                                                                                                                                                 |   3000000.00
+         1986 | Jason Lives: Friday the 13th Part VI (1986)                                                                                                                  |   3000000.00
+         1986 | Mutilations (1986)                                                                                                                                           |     95000.00
+         1986 | Poltergeist II: The Other Side (1986)                                                                                                                        |  19000000.00
+         1986 | Raiders of the Living Dead (1986)                                                                                                                            |    800000.00
+         1986 | The Supernaturals (1986)                                                                                                                                     |   3000000.00
+         1985 | Godzilla 1985 (1984)                                                                                                                                         |   2000000.00
+         1985 | Hot Water (1985)                                                                                                                                             |    350000.00
+         1985 | The Black Cauldron (1985)                                                                                                                                    |  44000000.00
+         1985 | The Company of Wolves (1984)                                                                                                                                 |   2000000.00
+         1985 | The Last Horror Film (1982)                                                                                                                                  |   2000000.00
+         1985 | The Strangeness (1985)                                                                                                                                       |     25000.00
+         1984 | Firestarter (1984)                                                                                                                                           |  15000000.00
+         1983 | Jaws 3-D (1983)                                                                                                                                              |  20500000.00
+         1982 | Cat People (1982)                                                                                                                                            |  18000000.00
+         1981 | Wolfen (1981)                                                                                                                                                |  17000000.00
+         1980 | Cannibal Holocaust (1980)                                                                                                                                    |    100000.00
+         1980 | Day of Resurrection (1980)                                                                                                                                   |  16000000.00
+         1980 | Island Claws (1980)                                                                                                                                          |   3500000.00
+         1980 | Mother's Day (1980)                                                                                                                                          |    150000.00
+         1980 | Terror Train (1980)                                                                                                                                          |   3500000.00
+         1980 | The Island (1980)                                                                                                                                            |  22000000.00
+         1980 | Without Warning (1980)                                                                                                                                       |    150000.00
+         1979 | Dracula (1979)                                                                                                                                               |  12164000.00
+         1979 | Prophecy (1979)                                                                                                                                              |  12000000.00
+         1979 | Weasels Rip My Flesh (1979)                                                                                                                                  |       400.00
+         1978 | Martin (1978)                                                                                                                                                |     80000.00
+         1978 | The Manitou (1977)                                                                                                                                           |   3000000.00
+         1978 | The Shout (1978)                                                                                                                                             |   6600000.00
+         1978 | The Swarm (1978)                                                                                                                                             |  21000000.00
+         1977 | Exorcist II: The Heretic (1977)                                                                                                                              |  14000000.00
+         1977 | It's Murder! (1977)                                                                                                                                          |      2000.00
+         1977 | The Sentinel (1977)                                                                                                                                          |   3700000.00
+         1976 | King Kong (1976)                                                                                                                                             |  24000000.00
+         1976 | Schlock (1973)                                                                                                                                               |     60000.00
+         1975 | Poor Pretty Eddie (1975)                                                                                                                                     |   1100000.00
+         1974 | Don't Look Now (1973)                                                                                                                                        |   1500000.00
+         1974 | Superbeast (1972)                                                                                                                                            |    275000.00
+         1973 | Beyond Atlantis (1973)                                                                                                                                       |    200000.00
+         1973 | Lisa and the Devil (1973)                                                                                                                                    |   1000000.00
+         1973 | Stanley (1972)                                                                                                                                               |    125000.00
+         1973 | The Exorcist (1973)                                                                                                                                          |  12000000.00
+         1973 | The Killing Kind (1973)                                                                                                                                      |    200000.00
+         1972 | The Corpse Grinders (1971)                                                                                                                                   |     47000.00
+         1972 | The Possession of Joel Delaney (1972)                                                                                                                        |   1300000.00
+         1971 | Blood Shack (1971)                                                                                                                                           |       500.00
+         1971 | House of Dark Shadows (1970)                                                                                                                                 |    750000.00
+         1971 | Octaman (1971)                                                                                                                                               |    250000.00
+         1971 | The Cat o' Nine Tails (1971)                                                                                                                                 |   1000000.00
+         1970 | Bizarre (1970)                                                                                                                                               |     52800.00
+         1970 | Cry of the Banshee (1970)                                                                                                                                    |    500000.00
+         1970 | The Bird with the Crystal Plumage (1970)                                                                                                                     |    500000.00
+         1969 | Mad Doctor of Blood Island (1968)                                                                                                                            |    125000.00
+         1969 | The Oblong Box (1969)                                                                                                                                        |    175000.00
+         1968 | Rosemary's Baby (1968)                                                                                                                                       |   2300000.00
+         1968 | The Conqueror Worm (1968)                                                                                                                                    |    175000.00
+         1967 | The Fearless Vampire Killers (1967)                                                                                                                          |   2000000.00
+         1967 | Wait Until Dark (1967)                                                                                                                                       |   3000000.00
+         1966 | The Crawling Hand (1963)                                                                                                                                     |    100000.00
+         1966 | The Ghost in the Invisible Bikini (1966)                                                                                                                     |    200000.00
+         1965 | Night Tide (1961)                                                                                                                                            |     25000.00
+         1965 | The Wizard of Mars (1965)                                                                                                                                    |     33000.00
+         1965 | These Are the Damned (1962)                                                                                                                                  |    500000.00
+         1965 | X: The Man with the X-Ray Eyes (1963)                                                                                                                        |    250000.00
+         1964 | Dementia 13 (1963)                                                                                                                                           |     40000.00
+         1964 | The Curse of the Living Corpse (1964)                                                                                                                        |    120000.00
+         1964 | The Horror of Party Beach (1964)                                                                                                                             |    120000.00
+         1964 | Violent Midnight (1963)                                                                                                                                      |     42000.00
+         1963 | The Birds (1963)                                                                                                                                             |   2500000.00
+         1963 | The Haunting (1963)                                                                                                                                          |   1400000.00
+         1963 | What Ever Happened to Baby Jane? (1962)                                                                                                                      |    980000.00
+         1962 | Carnival of Souls (1962)                                                                                                                                     |     30000.00
+         1962 | Corridors of Blood (1958)                                                                                                                                    |    118800.00
+         1962 | Premature Burial (1962)                                                                                                                                      |   1250000.00
+         1962 | The Hideous Sun Demon (1962)                                                                                                                                 |     58500.00
+         1962 | The Innocents (1961)                                                                                                                                         |    567600.00
+         1962 | The Phantom of the Opera (1962)                                                                                                                              |    237600.00
+         1961 | Konga (1961)                                                                                                                                                 |    500000.00
+         1961 | The Mask (1961)                                                                                                                                              |    250000.00
+         1960 | House of Usher (1960)                                                                                                                                        |    200000.00
+         1960 | Psycho (1960)                                                                                                                                                |    806947.00
+         1960 | Village of the Damned (1960)                                                                                                                                 |    200000.00
+         1959 | Godzilla Raids Again (1955)                                                                                                                                  |    800000.00
+         1959 | Invasion of the Animal People (1959)                                                                                                                         |     40000.00
+         1959 | The Giant Gila Monster (1959)                                                                                                                                |    138000.00
+         1959 | The Haunted Strangler (1958)                                                                                                                                 |     92400.00
+         1958 | Fiend Without a Face (1958)                                                                                                                                  |     66000.00
+         1958 | The Fly (1958)                                                                                                                                               |    700000.00
+         1957 | The Incredible Shrinking Man (1957)                                                                                                                          |    750000.00
+         1956 | The Bad Seed (1956)                                                                                                                                          |   1000000.00
+         1955 | This Island Earth (1955)                                                                                                                                     |    800000.00
+         1954 | Gog (1954)                                                                                                                                                   |    250000.00
+         1953 | It Came from Outer Space (1953)                                                                                                                              |    800000.00
+         1951 | Bud Abbott and Lou Costello Meet the Invisible Man (1951)                                                                                                    |    627000.00
+         1951 | The Thing from Another World (1951)                                                                                                                          |   1600000.00
+         1949 | Abbott and Costello Meet the Killer, Boris Karloff (1949)                                                                                                    |    686000.00
+         1948 | Abbott and Costello Meet Frankenstein (1948)                                                                                                                 |    800000.00
+         1948 | The Inheritance (1947)                                                                                                                                       |   1000000.00
+         1945 | The Body Snatcher (1945)                                                                                                                                     |    125000.00
+         1945 | The Picture of Dorian Gray (1945)                                                                                                                            |   3500000.00
+         1944 | Black Magic (1944)                                                                                                                                           |     75000.00
+         1943 | Phantom of the Opera (1943)                                                                                                                                  |   1500000.00
+         1942 | Cat People (1942)                                                                                                                                            |    134000.00
+         1941 | The Wolf Man (1941)                                                                                                                                          |    180000.00
+         1940 | You'll Find Out (1940)                                                                                                                                       |    353000.00
+         1939 | Charlie Chan at Treasure Island (1939)                                                                                                                       |    120000.00
+         1936 | The Walking Dead (1936)                                                                                                                                      |    217000.00
+         1935 | Bride of Frankenstein (1935)                                                                                                                                 |    397024.00
+         1934 | The Black Cat (1934)                                                                                                                                         |     95745.00
+         1933 | King Kong (1933)                                                                                                                                             |    670000.00
+         1932 | Dr. Jekyll and Mr. Hyde (1931)                                                                                                                               |    535000.00
+         1931 | Dracula (1931)                                                                                                                                               |    355000.00
+         1927 | The Unknown (1927)                                                                                                                                           |    217000.00
+         1923 | The Hunchback of Notre Dame (1923)                                                                                                                           |   1250000.00
+         1921 | The Cabinet of Dr. Caligari (1920)                                                                                                                           |     18000.00
+         1921 | The Penalty (1920)                                                                                                                                           |     88868.00
+(913 rows)
+

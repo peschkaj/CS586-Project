@@ -1,0 +1,127 @@
+                   country_name                   | movie_count 
+--------------------------------------------------+-------------
+ USA                                              |        3533
+ UK                                               |         627
+ Canada                                           |         522
+ Italy                                            |         207
+ Spain                                            |         173
+ Australia                                        |         123
+ Germany                                          |         100
+ Japan                                            |          94
+ Mexico                                           |          87
+ India                                            |          72
+ France                                           |          62
+ Philippines                                      |          58
+ Romania                                          |          51
+ Ireland                                          |          44
+ China                                            |          38
+ Sweden                                           |          35
+ Turkey                                           |          31
+ South Africa                                     |          30
+ South Korea                                      |          30
+ New Zealand                                      |          30
+ Thailand                                         |          29
+ Brazil                                           |          26
+ Bulgaria                                         |          25
+ Hungary                                          |          25
+ Czech Republic                                   |          24
+ Argentina                                        |          22
+ Norway                                           |          22
+ Belgium                                          |          19
+ Indonesia                                        |          19
+ Denmark                                          |          18
+ Malaysia                                         |          17
+ Austria                                          |          17
+ Poland                                           |          15
+ Portugal                                         |          13
+ Serbia                                           |          13
+ Chile                                            |          13
+ Colombia                                         |          13
+ Russia                                           |          12
+ Morocco                                          |          11
+ Luxembourg                                       |          10
+ Greece                                           |          10
+ Netherlands                                      |           9
+ Peru                                             |           8
+ Switzerland                                      |           8
+ Finland                                          |           8
+ Singapore                                        |           8
+ Georgia                                          |           7
+ Israel                                           |           6
+ Dominican Republic                               |           6
+ Iceland                                          |           6
+ Ukraine                                          |           6
+ Pakistan                                         |           5
+ Venezuela                                        |           5
+ Lithuania                                        |           5
+ Vietnam                                          |           4
+ Isle of Man                                      |           4
+ Slovenia                                         |           4
+ Puerto Rico                                      |           4
+ Jamaica                                          |           4
+ Slovakia                                         |           4
+ Bahamas                                          |           3
+ Taiwan                                           |           3
+ Bolivia                                          |           3
+ Malta                                            |           3
+ Egypt                                            |           3
+ Namibia                                          |           3
+ Macedonia                                        |           3
+ Hong Kong                                        |           3
+ England                                          |           2
+ Greenland                                        |           2
+ Kenya                                            |           2
+ Uruguay                                          |           2
+ The Netherlands                                  |           2
+ Italia                                           |           2
+ Yugoslavia                                       |           2
+ Fiji                                             |           2
+ Croatia                                          |           2
+ Tunisia                                          |           2
+ Albania                                          |           2
+ Zimbabwe                                         |           2
+ Estonia                                          |           2
+ Cambodia                                         |           2
+ Residenz zu Salzburg                             |           1
+ Dominica                                         |           1
+ Korea                                            |           1
+ United Arab Emirates                             |           1
+ Catalonia                                        |           1
+ Jordan                                           |           1
+ Space                                            |           1
+ Iraq                                             |           1
+ Florida. USA                                     |           1
+ Ecuador                                          |           1
+ Bosnia-Herzegovina                               |           1
+ Guyana                                           |           1
+ Bhutan                                           |           1
+ Bermuda                                          |           1
+ near Docking                                     |           1
+ Sri Lanka                                        |           1
+ Oman                                             |           1
+ Afghanistan                                      |           1
+ County Armagh                                    |           1
+ West Australia                                   |           1
+ Paranaíba - Mato Grosso do Sul - Brazil          |           1
+ earstwhile palace of Nawab of Ahmedganj in Murud |           1
+ CA                                               |           1
+ Cuba                                             |           1
+ Northern Ireland                                 |           1
+ USA"                                             |           1
+ Burkina Faso                                     |           1
+ Belize                                           |           1
+ Latvia                                           |           1
+ Montenegro                                       |           1
+ Bahrain                                          |           1
+ Happisburgh Norfolk                              |           1
+ North Carolina USA                               |           1
+ BC                                               |           1
+ Bizkaia                                          |           1
+ Iran                                             |           1
+ British Virgin Islands                           |           1
+ U.S. Virgin Islands                              |           1
+ Panama                                           |           1
+ Laos                                             |           1
+ Honduras                                         |           1
+(123 rows)
+

@@ -1,0 +1,102 @@
+ release_year |  rating   | number_of_movies 
+--------------+-----------+------------------
+              | NOT RATED |                1
+         2018 | UNRATED   |                1
+         2017 | R         |               47
+         2016 | NOT RATED |              106
+         2015 | NOT RATED |              156
+         2014 | NOT RATED |              179
+         2013 | NOT RATED |              136
+         2012 | R         |               93
+         2011 | NOT RATED |               95
+         2010 | R         |               75
+         2009 | R         |              103
+         2008 | R         |               91
+         2007 | R         |               92
+         2006 | R         |               85
+         2005 | R         |               80
+         2004 | R         |               66
+         2003 | R         |               57
+         2002 | R         |               57
+         2001 | R         |               44
+         2000 | R         |               35
+         1999 | R         |               38
+         1998 | R         |               44
+         1997 | R         |               30
+         1996 | R         |               33
+         1995 | R         |               50
+         1994 | R         |               32
+         1993 | R         |               34
+         1992 | R         |               38
+         1991 | R         |               44
+         1990 | R         |               73
+         1989 | R         |               75
+         1988 | R         |               78
+         1987 | R         |               57
+         1986 | R         |               43
+         1985 | R         |               32
+         1984 | R         |               33
+         1983 | R         |               38
+         1982 | R         |               49
+         1981 | R         |               47
+         1980 | R         |               49
+         1979 | R         |               22
+         1978 | R         |               31
+         1977 | R         |               28
+         1976 | R         |               29
+         1975 | R         |               27
+         1974 | R         |               40
+         1973 | R         |               42
+         1972 | PG        |               32
+         1971 | GP        |               20
+         1970 | R         |               22
+         1969 | R         |                7
+         1968 | NOT RATED |                7
+         1967 | UNRATED   |               17
+         1966 | UNRATED   |               14
+         1965 | UNRATED   |               13
+         1964 | UNRATED   |               10
+         1963 | APPROVED  |                8
+         1962 | NOT RATED |                9
+         1961 | UNRATED   |                9
+         1960 | UNRATED   |                8
+         1959 | APPROVED  |               14
+         1958 | APPROVED  |               13
+         1957 | APPROVED  |               23
+         1956 | APPROVED  |               10
+         1955 | APPROVED  |                6
+         1954 | APPROVED  |                8
+         1953 | APPROVED  |                9
+         1952 | NOT RATED |                1
+         1951 | APPROVED  |                3
+         1949 | APPROVED  |                2
+         1948 | APPROVED  |                3
+         1947 | APPROVED  |                2
+         1946 | APPROVED  |                4
+         1945 | APPROVED  |                7
+         1944 | APPROVED  |               11
+         1943 | APPROVED  |               11
+         1942 | APPROVED  |                4
+         1941 | APPROVED  |                6
+         1940 | APPROVED  |                7
+         1939 | APPROVED  |                8
+         1936 | APPROVED  |                7
+         1935 | APPROVED  |                4
+         1934 | PASSED    |                1
+         1933 | PASSED    |                4
+         1932 | PASSED    |                7
+         1931 | APPROVED  |                3
+         1929 | PASSED    |                1
+         1928 | NOT RATED |                2
+         1927 | UNRATED   |                2
+         1926 | PASSED    |                1
+         1925 | UNRATED   |                2
+         1924 | PASSED    |                1
+         1923 | UNRATED   |                1
+         1922 | NOT RATED |                2
+         1921 | UNRATED   |                2
+         1920 | UNRATED   |                1
+         1914 | NOT RATED |                1
+         1913 | APPROVED  |                1
+(98 rows)
+

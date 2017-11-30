@@ -1,0 +1,73 @@
+     country_name      |                    title                     |    budget    
+-----------------------+----------------------------------------------+--------------
+ West Germany          | Dream Demon (1988)                           |   3960000.00
+ Vietnam               | Chung Cu Ma (2014)                           |    500000.00
+ Venezuela             | The House at the End of Time (2013)          |    300000.00
+ Uruguay               | Local God (2014)                             |    550000.00
+ United Arab Emirates  | It's Alive (2008)                            |  10000000.00
+ USA                   | World War Z (2013)                           | 190000000.00
+ UK                    | Tideland (2005)                              |  19300000.00
+ Turkey                | Book of Blood (2009)                         |   6000000.00
+ Thailand              | Amusement (2008)                             |   6000000.00
+ Thailand              | Return of the Living Dead: Necropolis (2005) |   6000000.00
+ Taiwan                | The House of the Devil (2009)                |    900000.00
+ Switzerland           | Black Hollow Cage (2017)                     |   1755000.00
+ Sweden                | The Final Storm (2010)                       |   5000000.00
+ Spain                 | Red Lights (2012)                            |  16380000.00
+ South Korea           | Nine Miles Down (2009)                       |  22000000.00
+ South Africa          | The Minion (1998)                            |   3000000.00
+ Slovenia              | Killbillies (2015)                           |    257400.00
+ Slovakia              | Socialistický Zombi Mord (2014)              |     23400.00
+ Singapore             | The Gathering (2002)                         |  18000000.00
+ Serbia and Montenegro | Sheitan Warrior (2006)                       |    300000.00
+ Russia                | The Midnight Meat Train (2008)               |  15000000.00
+ Romania               | Miss Christina (2013)                        |   1287000.00
+ Puerto Rico           | Vasos De Papel (2016)                        |    350000.00
+ Portugal              | Moscow Zero (2006)                           |  10000000.00
+ Poland                | 13 Sins (2014)                               |   4000000.00
+ Philippines           | Whisper (2007)                               |  12000000.00
+ Peru                  | Near Dark (1987)                             |   5000000.00
+ Norway                | The Tortured (2010)                          |   8500000.00
+ New Zealand           | Perfect Creature (2006)                      |  11000000.00
+ Netherlands           | The Apostle (2012)                           |  15000000.00
+ Netherlands           | The New Daughter (2009)                      |  15000000.00
+ Netherlands           | The Shaft (2001)                             |  15000000.00
+ Morocco               | The Objective (2008)                         |   4000000.00
+ Mexico                | Walled In (2009)                             |  10000000.00
+ Malaysia              | Spiders 3D (2013)                            |   7000000.00
+ Latvia                | The Man in the Orange Jacket (2014)          |     46800.00
+ Kuwait                | Into the Grizzly Maze (2015)                 |  10000000.00
+ Kazakhstan            | Hidden 3D (2011)                             |   8000000.00
+ Japan                 | The Eighteenth Angel (1997)                  |  25000000.00
+ Italy                 | Giallo (2009)                                |  14000000.00
+ Israel                | Another World (2014)                         |   1000000.00
+ Israel                | The Killing Floor (2007)                     |   1000000.00
+ Ireland               | Nails (2017)                                 |   5850000.00
+ Indonesia             | The Evil Within (2017)                       |   6000000.00
+ India                 | Hisss (2010)                                 |   6000000.00
+ Iceland               | Reykjavik Whale Watching Massacre (2009)     |   4000000.00
+ Hungary               | The Picture of Dorian Gray (2005)            |   3000000.00
+ Hong Kong             | Blood: The Last Vampire (2009)               |  30000000.00
+ Greece                | Tell Tale (2009)                             |  12000000.00
+ Germany               | Eye See You (2002)                           |  55000000.00
+ Georgia               | 247°F (2011)                                 |    650000.00
+ France                | The Tall Man (2012)                          |  18200000.00
+ Finland               | Dark Floors (2008)                           |   5031000.00
+ Egypt                 | The Vatican Tapes (2015)                     |   8000000.00
+ Dominican Republic    | Andrea: The Revenge of the Spirit (2005)     |    225000.00
+ Denmark               | Antichrist (2009)                            |  11000000.00
+ Czech Republic        | Repo! The Genetic Opera (2008)               |   8500000.00
+ Colombia              | The Squad (2011)                             |   1300000.00
+ China                 | Flight from Hell (2014)                      |  10000000.00
+ Chile                 | Aftershock (2012)                            |   2000000.00
+ Canada                | Seed (2006)                                  |  10000000.00
+ Brazil                | Resurrection (1999)                          |  10000000.00
+ Bolivia               | Maleficarum (2011)                           |    105000.00
+ Belgium               | Twixt (2011)                                 |   7000000.00
+ Belarus               | Wolves (2014)                                |  18000000.00
+ Bahrain               | The Bone Snatcher (2003)                     |   6000000.00
+ Austria               | Therapy for a Vampire (2014)                 |   7020000.00
+ Australia             | Like Minds (2006)                            |   8000000.00
+ Argentina             | Night of the Demons (2009)                   |  10000000.00
+(69 rows)
+
